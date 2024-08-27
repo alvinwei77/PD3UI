@@ -1,0 +1,4 @@
+2024-08-27 22:23:25.167 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-27 22:23:25.168 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-27 22:23:25.168 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-27 22:23:25.168 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"

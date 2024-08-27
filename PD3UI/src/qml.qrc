@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>App.qml</file>
+        <file>qml/main.qml</file>
+        <file>public/logo.ico</file>
+    </qresource>
+</RCC>
