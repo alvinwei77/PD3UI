@@ -3,7 +3,7 @@ pragma Singleton
 import QtQuick 2.15
 import QtCore
 import FluentUI
-import com.pd3.pgpool 1.0
+// import com.pd3.pgpool 1.0
 
 FluObject {
     id: setting_s

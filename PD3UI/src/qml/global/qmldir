@@ -4,3 +4,4 @@ singleton ItemsFooter 1.0 itemsFooter.qml
 singleton Context 1.0 Context.qml
 singleton SysSettings 1.0 Sys_settings.qml
 singleton SignalManager 1.0 SignalManager.qml
+singleton Config 1.0 Config.qml

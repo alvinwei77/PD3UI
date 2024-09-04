@@ -2,3 +2,1607 @@
 2024-08-27 22:23:25.168 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
 2024-08-27 22:23:25.168 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
 2024-08-27 22:23:25.168 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 22:54:52.961 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 22:54:52.962 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 22:54:52.962 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 22:54:52.962 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:08:00.866 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:08:00.867 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:08:00.867 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:08:00.867 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:08:01.589 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:08:01.591 WARNING: default: qrc:/qml/main.qml:35:13: QML QQuickImage: Cannot open: qrc:/res/logo.ico
+2024-08-31 23:09:12.370 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:09:12.370 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:09:12.370 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:09:12.370 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:09:12.762 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:09:15.664 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:09:16.680 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:09:16.954 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:09:17.206 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:09:17.429 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:09:17.648 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:09:17.959 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:09:20.743 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:09:21.027 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:20:22.812 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:20:22.813 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:20:22.813 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:20:22.813 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:20:23.196 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:20:59.278 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:20:59.278 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:20:59.278 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:20:59.278 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:20:59.644 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:21:29.483 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:21:29.484 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:21:29.484 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:21:29.484 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:21:29.891 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:22:21.032 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:22:21.033 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:22:21.033 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:22:21.033 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:22:21.479 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:22:25.298 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:22:25.716 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:23:03.944 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:23:03.945 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:23:03.945 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:23:03.945 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:23:04.380 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:23:06.823 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:23:07.213 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:23:28.429 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:23:28.429 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:23:28.429 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:23:28.429 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:23:28.812 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:23:31.685 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:23:32.155 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:23:32.622 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:23:32.996 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:24:15.778 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:24:15.778 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:24:15.778 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:24:15.778 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:24:16.179 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:26:41.068 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:26:41.069 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:26:41.069 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:26:41.069 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:26:41.479 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:26:41.479 DEBUG: qml: nav to Home page
+2024-08-31 23:26:43.908 DEBUG: qml: nav to Home page
+2024-08-31 23:26:44.503 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:26:44.956 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:26:44.956 DEBUG: qml: nav to Home page
+2024-08-31 23:26:45.720 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:26:46.005 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:26:46.005 DEBUG: qml: nav to Home page
+2024-08-31 23:31:49.396 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:31:49.396 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:31:49.396 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:31:49.396 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:31:49.827 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:31:49.827 DEBUG: qml: nav to Home page
+2024-08-31 23:31:52.401 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:31:52.870 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:31:52.871 DEBUG: qml: nav to Home page
+2024-08-31 23:35:27.782 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:35:27.783 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:35:27.783 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:35:27.783 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:35:28.174 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:35:28.174 DEBUG: qml: nav to Home page
+2024-08-31 23:35:28.174 DEBUG: qml: nav loaded
+2024-08-31 23:35:30.936 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-08-31 23:35:31.251 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:35:31.251 DEBUG: qml: nav to Home page
+2024-08-31 23:38:20.974 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:38:20.975 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:38:20.975 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:38:20.976 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:38:21.345 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:38:21.346 DEBUG: qml: nav to Home page
+2024-08-31 23:38:21.346 DEBUG: qml: nav loaded
+2024-08-31 23:38:25.797 DEBUG: qml: nav to Home page
+2024-08-31 23:39:53.172 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:39:53.174 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:39:53.174 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:39:53.174 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:39:53.628 WARNING: default: qrc:/qml/pages/Home.qml:16:9: Cannot assign to non-existent property "margin"
+2024-08-31 23:40:15.116 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:40:15.117 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:40:15.117 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:40:15.117 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:40:15.546 DEBUG: qml: loaded Home page
+2024-08-31 23:40:15.547 WARNING: default: qrc:/qml/components/TableOpres.qml: No such file or directory
+2024-08-31 23:40:15.701 WARNING: default: qrc:/qml/components/AreaSelector.qml:29: ReferenceError: area_mock is not defined
+2024-08-31 23:41:04.121 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:41:04.122 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:41:04.122 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:41:04.122 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:41:04.517 DEBUG: qml: loaded Home page
+2024-08-31 23:41:04.518 WARNING: default: qrc:/qml/components/TableOpres.qml: No such file or directory
+2024-08-31 23:41:31.303 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:41:31.304 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:41:31.304 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:41:31.304 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:41:31.699 DEBUG: qml: loaded Home page
+2024-08-31 23:42:41.564 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:42:41.564 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:42:41.564 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:42:41.565 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:42:41.946 DEBUG: qml: loaded Home page
+2024-08-31 23:43:17.421 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:43:17.421 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:43:17.422 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:43:17.422 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:43:17.825 DEBUG: qml: loaded Home page
+2024-08-31 23:44:25.267 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:44:25.268 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:44:25.269 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:44:25.269 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:44:25.658 WARNING: default: Qt Quick Layouts: Detected recursive rearrange. Aborting after two iterations.
+2024-08-31 23:44:25.659 WARNING: default: Qt Quick Layouts: Detected recursive rearrange. Aborting after two iterations.
+2024-08-31 23:44:25.659 DEBUG: qml: loaded Home page
+2024-08-31 23:44:35.239 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:44:35.240 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:44:35.240 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:44:35.240 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:44:35.619 WARNING: default: Qt Quick Layouts: Detected recursive rearrange. Aborting after two iterations.
+2024-08-31 23:44:35.620 WARNING: default: Qt Quick Layouts: Detected recursive rearrange. Aborting after two iterations.
+2024-08-31 23:44:35.620 DEBUG: qml: loaded Home page
+2024-08-31 23:44:45.000 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:44:45.001 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:44:45.001 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:44:45.001 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:44:45.382 WARNING: default: Qt Quick Layouts: Detected recursive rearrange. Aborting after two iterations.
+2024-08-31 23:44:45.383 WARNING: default: Qt Quick Layouts: Detected recursive rearrange. Aborting after two iterations.
+2024-08-31 23:44:45.383 DEBUG: qml: loaded Home page
+2024-08-31 23:45:14.241 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:45:14.242 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:45:14.242 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:45:14.242 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:45:14.625 WARNING: default: Qt Quick Layouts: Detected recursive rearrange. Aborting after two iterations.
+2024-08-31 23:45:14.626 WARNING: default: Qt Quick Layouts: Detected recursive rearrange. Aborting after two iterations.
+2024-08-31 23:45:14.626 DEBUG: qml: loaded Home page
+2024-08-31 23:48:41.742 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:48:41.743 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:48:41.743 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:48:41.743 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:48:42.145 DEBUG: qml: loaded Home page
+2024-08-31 23:49:03.224 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:49:03.225 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:49:03.225 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:49:03.225 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:49:03.613 DEBUG: qml: loaded Home page
+2024-08-31 23:49:11.816 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:49:11.817 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:49:11.817 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:49:11.817 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:49:12.244 DEBUG: qml: loaded Home page
+2024-08-31 23:49:25.894 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:49:25.894 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:49:25.895 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:49:25.895 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:49:26.282 DEBUG: qml: loaded Home page
+2024-08-31 23:49:44.909 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-08-31 23:49:44.910 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-08-31 23:49:44.910 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:49:44.910 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-08-31 23:49:45.297 DEBUG: qml: loaded Home page
+2024-09-01 22:45:22.680 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-01 22:45:22.681 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-01 22:45:22.681 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-01 22:45:22.681 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-01 22:45:23.054 DEBUG: qml: loaded Home page
+2024-09-03 20:46:51.525 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 20:46:51.526 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 20:46:51.526 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 20:46:51.527 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 20:46:52.032 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:65:13: QML TArrow: Cannot open: qrc:/public/arrow.png
+2024-09-03 20:46:52.032 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:62:13: QML TArrow: Cannot open: qrc:/public/arrow.png
+2024-09-03 20:46:52.033 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:59:13: QML TArrow: Cannot open: qrc:/public/arrow.png
+2024-09-03 20:46:52.033 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:56:13: QML TArrow: Cannot open: qrc:/public/arrow.png
+2024-09-03 20:46:52.033 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:53:13: QML TArrow: Cannot open: qrc:/public/arrow.png
+2024-09-03 20:46:52.034 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:50:13: QML TArrow: Cannot open: qrc:/public/arrow.png
+2024-09-03 20:46:52.034 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:47:13: QML TArrow: Cannot open: qrc:/public/arrow.png
+2024-09-03 20:46:52.034 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:44:13: QML TArrow: Cannot open: qrc:/public/arrow.png
+2024-09-03 20:46:52.035 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:41:13: QML TArrow: Cannot open: qrc:/public/arrow.png
+2024-09-03 20:46:52.146 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:46:52.168 DEBUG: qml: loaded Home page
+2024-09-03 20:46:52.373 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:46:52.440 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:46:52.769 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:46:52.961 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:46:53.153 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:46:53.633 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:40.789 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 20:48:40.790 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 20:48:40.790 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 20:48:40.790 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 20:48:41.207 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:41.218 DEBUG: qml: loaded Home page
+2024-09-03 20:48:41.428 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:41.494 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:41.826 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:42.019 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:42.211 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:42.691 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:42.882 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:43.075 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:57.656 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 20:48:57.657 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 20:48:57.657 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 20:48:57.657 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 20:48:58.088 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:58.097 DEBUG: qml: loaded Home page
+2024-09-03 20:48:58.307 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:58.374 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:58.711 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:58.902 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:59.094 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:59.574 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:59.766 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:48:59.958 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:36.816 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 20:54:36.817 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 20:54:36.817 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 20:54:36.817 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 20:54:37.210 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:37.220 DEBUG: qml: loaded Home page
+2024-09-03 20:54:37.504 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:37.573 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:37.905 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:38.097 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:38.289 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:38.769 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:38.961 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:39.153 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:48.885 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 20:54:48.886 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 20:54:48.886 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 20:54:48.886 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 20:54:49.280 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:49.290 DEBUG: qml: loaded Home page
+2024-09-03 20:54:49.561 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:49.632 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:49.965 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:50.157 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:50.350 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:50.830 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:51.021 DEBUG: qml: PathAnimation running: true
+2024-09-03 20:54:51.213 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:04:32.813 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:04:32.814 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:04:32.814 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:04:32.814 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:04:33.287 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:04:33.305 DEBUG: qml: loaded Home page
+2024-09-03 21:04:33.520 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:04:33.590 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:04:33.924 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:04:34.116 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:04:34.308 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:04:34.788 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:04:34.980 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:04:35.172 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:04:47.560 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-09-03 21:04:47.831 DEBUG: qml: loaded Home page
+2024-09-03 21:06:15.104 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:06:15.105 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:06:15.105 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:06:15.106 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:06:15.519 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:06:15.544 DEBUG: qml: loaded Home page
+2024-09-03 21:06:15.809 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:06:15.882 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:06:16.213 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:06:16.405 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:06:16.597 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:06:17.076 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:06:17.269 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:06:17.461 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:10:16.523 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:10:16.524 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:10:16.524 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:10:16.525 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:10:16.924 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:10:16.937 DEBUG: qml: loaded Home page
+2024-09-03 21:10:17.247 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:10:17.318 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:10:17.649 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:10:17.842 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:10:18.033 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:10:18.513 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:10:18.706 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:10:18.897 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:10:21.351 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-09-03 21:10:21.655 DEBUG: qml: loaded Home page
+2024-09-03 21:10:27.931 DEBUG: qml: loaded Home page
+2024-09-03 21:12:45.724 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:12:45.725 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:12:45.725 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:12:45.725 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:12:46.208 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:12:46.228 DEBUG: qml: loaded Home page
+2024-09-03 21:12:46.446 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:12:46.517 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:12:46.848 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:12:47.039 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:12:47.231 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:12:47.712 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:12:47.903 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:12:48.096 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:12.801 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:15:12.802 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:15:12.802 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:15:12.803 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:15:13.207 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:13.217 DEBUG: qml: loaded Home page
+2024-09-03 21:15:13.500 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:13.569 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:13.904 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:14.096 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:14.289 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:14.768 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:14.960 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:15.152 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:16.283 DEBUG: qml: clicked
+2024-09-03 21:15:16.447 DEBUG: qml: clicked
+2024-09-03 21:15:16.947 DEBUG: qml: clicked
+2024-09-03 21:15:17.107 DEBUG: qml: clicked
+2024-09-03 21:15:17.280 DEBUG: qml: clicked
+2024-09-03 21:15:50.002 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:15:50.003 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:15:50.003 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:15:50.003 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:15:50.393 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:50.405 DEBUG: qml: loaded Home page
+2024-09-03 21:15:50.706 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:50.777 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:51.110 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:51.302 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:51.494 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:51.973 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:52.166 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:52.357 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:15:53.532 DEBUG: qml: clicked
+2024-09-03 21:15:54.111 DEBUG: qml: clicked
+2024-09-03 21:15:54.251 DEBUG: qml: clicked
+2024-09-03 21:15:54.399 DEBUG: qml: clicked
+2024-09-03 21:15:54.555 DEBUG: qml: clicked
+2024-09-03 21:17:41.610 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:17:41.611 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:17:41.611 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:17:41.611 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:17:42.014 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:17:42.024 DEBUG: qml: loaded Home page
+2024-09-03 21:17:42.323 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:17:42.393 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:17:42.721 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:17:42.914 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:17:43.106 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:17:43.586 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:17:43.778 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:17:43.969 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:17:45.515 DEBUG: qml: clicked
+2024-09-03 21:17:49.413 DEBUG: qml: clicked
+2024-09-03 21:17:50.127 DEBUG: qml: clicked
+2024-09-03 21:17:50.278 DEBUG: qml: clicked
+2024-09-03 21:20:27.051 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:20:27.052 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:20:27.052 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:20:27.052 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:20:27.448 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:20:27.457 DEBUG: qml: loaded Home page
+2024-09-03 21:20:27.743 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:20:27.811 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:20:28.144 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:20:28.337 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:20:28.529 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:20:29.008 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:20:29.200 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:20:29.392 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:20:30.894 DEBUG: qml: clicked
+2024-09-03 21:20:31.500 DEBUG: qml: clicked
+2024-09-03 21:20:32.045 DEBUG: qml: clicked
+2024-09-03 21:20:32.552 DEBUG: qml: clicked
+2024-09-03 21:21:16.818 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:21:16.819 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:21:16.819 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:21:16.819 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:21:17.202 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:17.212 DEBUG: qml: loaded Home page
+2024-09-03 21:21:17.501 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:17.571 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:17.906 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:18.097 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:18.289 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:18.770 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:18.961 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:19.153 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:47.208 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:21:47.209 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:21:47.209 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:21:47.209 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:21:47.595 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:47.605 DEBUG: qml: loaded Home page
+2024-09-03 21:21:47.884 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:47.954 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:48.287 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:48.479 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:48.670 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:49.151 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:49.342 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:21:49.535 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:22:04.944 DEBUG: qml: loaded Home page
+2024-09-03 21:22:26.699 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:22:26.699 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:22:26.700 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:22:26.700 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:22:27.068 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:22:27.079 DEBUG: qml: loaded Home page
+2024-09-03 21:22:27.284 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:22:27.349 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:22:27.675 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:22:27.867 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:22:28.059 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:22:28.539 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:22:28.731 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:22:28.923 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:04.008 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:23:04.010 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:23:04.011 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:23:04.011 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:23:04.424 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:04.434 DEBUG: qml: loaded Home page
+2024-09-03 21:23:04.702 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:04.771 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:05.104 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:05.296 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:05.488 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:05.969 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:06.160 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:06.352 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:13.570 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:23:13.571 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:23:13.571 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:23:13.571 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:23:13.984 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:13.994 DEBUG: qml: loaded Home page
+2024-09-03 21:23:14.252 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:14.320 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:14.654 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:14.846 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:15.038 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:15.518 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:15.710 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:15.902 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:42.909 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:23:42.909 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:23:42.910 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:23:42.910 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:23:43.317 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:43.329 DEBUG: qml: loaded Home page
+2024-09-03 21:23:43.603 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:43.674 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:44.007 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:44.199 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:44.391 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:44.871 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:45.063 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:45.255 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:54.558 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:23:54.559 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:23:54.559 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:23:54.559 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:23:54.938 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:54.947 DEBUG: qml: loaded Home page
+2024-09-03 21:23:55.155 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:55.221 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:55.550 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:55.743 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:55.934 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:56.414 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:56.606 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:23:56.798 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:24:05.437 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:24:05.437 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:24:05.438 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:24:05.438 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:24:05.843 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:24:05.854 DEBUG: qml: loaded Home page
+2024-09-03 21:24:06.067 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:24:06.139 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:24:06.474 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:24:06.666 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:24:06.858 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:24:07.338 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:24:07.530 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:24:07.723 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:28:04.237 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:28:04.237 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:28:04.238 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:28:04.238 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:28:04.734 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:28:04.744 DEBUG: qml: loaded Home page
+2024-09-03 21:28:04.978 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:28:05.050 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:28:05.383 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:28:05.575 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:28:05.768 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:28:06.248 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:28:06.439 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:28:06.631 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:34:48.109 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:34:48.110 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:34:48.110 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:34:48.110 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:34:48.643 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:34:48.657 DEBUG: qml: loaded Home page
+2024-09-03 21:34:48.881 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:34:48.950 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:34:49.283 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:34:49.475 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:34:49.667 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:34:50.147 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:34:50.340 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:34:50.531 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:35:12.684 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:35:12.685 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:35:12.685 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:35:12.685 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:35:13.080 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:35:13.091 DEBUG: qml: loaded Home page
+2024-09-03 21:35:13.303 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:35:13.374 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:35:13.711 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:35:13.903 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:35:14.095 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:35:14.574 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:35:14.767 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:35:14.958 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:36:31.064 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:36:31.065 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:36:31.065 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:36:31.065 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:36:31.475 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:36:31.485 DEBUG: qml: loaded Home page
+2024-09-03 21:36:31.803 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:36:31.871 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:36:32.202 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:36:32.394 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:36:32.587 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:36:33.067 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:36:33.258 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:36:33.450 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:37:48.803 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:37:48.803 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:37:48.804 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:37:48.804 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:37:49.216 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:37:49.225 DEBUG: qml: loaded Home page
+2024-09-03 21:37:49.465 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:37:49.536 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:37:49.871 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:37:50.063 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:37:50.255 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:37:50.735 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:37:50.927 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:37:51.119 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:38:15.127 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:38:15.128 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:38:15.128 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:38:15.128 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:38:15.668 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:38:15.680 DEBUG: qml: loaded Home page
+2024-09-03 21:38:15.903 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:38:15.971 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:38:16.303 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:38:16.495 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:38:16.687 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:38:17.168 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:38:17.359 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:38:17.551 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:24.495 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:40:24.495 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:40:24.495 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:40:24.495 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:40:24.890 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:24.899 DEBUG: qml: loaded Home page
+2024-09-03 21:40:25.118 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:25.190 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:25.526 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:25.718 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:25.910 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:26.390 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:26.582 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:26.774 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:32.465 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:40:32.466 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:40:32.466 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:40:32.467 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:40:32.854 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:32.865 DEBUG: qml: loaded Home page
+2024-09-03 21:40:33.075 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:33.142 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:33.472 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:33.663 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:33.856 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:34.336 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:34.527 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:40:34.719 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:41:30.610 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:41:30.610 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:41:30.611 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:41:30.611 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:41:30.988 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:41:31.000 DEBUG: qml: loaded Home page
+2024-09-03 21:41:31.306 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:41:31.378 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:41:31.714 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:41:31.906 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:41:32.098 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:41:32.578 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:41:32.770 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:41:32.962 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:13.417 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:42:13.418 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:42:13.418 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:42:13.418 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:42:13.927 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:13.939 DEBUG: qml: loaded Home page
+2024-09-03 21:42:14.167 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:14.244 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:14.574 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:14.765 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:14.958 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:15.438 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:15.630 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:15.821 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:51.212 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:42:51.213 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:42:51.213 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:42:51.214 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:42:51.610 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:51.620 DEBUG: qml: loaded Home page
+2024-09-03 21:42:51.920 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:51.992 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:52.325 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:52.518 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:52.709 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:53.190 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:53.382 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:42:53.573 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:31.703 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:43:31.704 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:43:31.704 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:43:31.704 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:43:32.103 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:32.114 DEBUG: qml: loaded Home page
+2024-09-03 21:43:32.401 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:32.473 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:32.809 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:33.001 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:33.193 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:33.673 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:33.865 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:34.057 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:46.985 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:43:46.986 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:43:46.986 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:43:46.986 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:43:47.513 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:47.534 DEBUG: qml: loaded Home page
+2024-09-03 21:43:47.769 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:47.839 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:48.173 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:48.365 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:48.557 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:49.037 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:49.229 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:43:49.421 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:48:00.213 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:48:00.214 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:48:00.214 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:48:00.214 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:48:00.630 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:48:00.641 DEBUG: qml: loaded Home page
+2024-09-03 21:48:00.643 WARNING: default: qrc:/qml/main.qml:88: ReferenceError: parent is not defined
+2024-09-03 21:48:00.995 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:48:01.067 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:48:01.401 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:48:01.593 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:48:01.785 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:48:02.267 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:48:02.457 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:48:02.649 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:48:08.116 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-09-03 21:48:08.525 DEBUG: qml: loaded Home page
+2024-09-03 21:50:40.207 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:50:40.208 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:50:40.208 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:50:40.208 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:50:40.604 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:50:40.615 DEBUG: qml: loaded Home page
+2024-09-03 21:50:40.616 WARNING: default: qrc:/qml/main.qml:88: ReferenceError: parent is not defined
+2024-09-03 21:50:40.948 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:50:41.019 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:50:41.350 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:50:41.543 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:50:41.735 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:50:42.215 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:50:42.406 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:50:42.599 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:50:59.437 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:50:59.437 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:50:59.438 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:50:59.438 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:50:59.907 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:50:59.927 DEBUG: qml: loaded Home page
+2024-09-03 21:51:00.175 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:00.247 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:00.577 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:00.770 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:00.962 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:01.442 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:01.633 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:01.826 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:25.591 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:51:25.591 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:51:25.592 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:51:25.592 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:51:25.981 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:25.992 DEBUG: qml: loaded Home page
+2024-09-03 21:51:26.206 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:26.277 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:26.612 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:26.803 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:26.996 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:27.476 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:27.668 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:27.860 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:51:36.736 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:51:36.737 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:51:36.737 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:51:36.738 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:51:37.150 DEBUG: qml: loaded Home page
+2024-09-03 21:53:15.559 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:53:15.560 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:53:15.560 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:53:15.560 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:53:15.952 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:15.964 DEBUG: qml: loaded Home page
+2024-09-03 21:53:16.277 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:16.349 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:16.686 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:16.877 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:17.069 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:17.549 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:17.742 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:17.933 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:38.974 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:53:38.975 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:53:38.975 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:53:38.975 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:53:39.369 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:39.378 DEBUG: qml: loaded Home page
+2024-09-03 21:53:39.649 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:39.721 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:40.057 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:40.249 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:40.441 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:40.922 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:41.113 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:53:41.305 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:54:51.595 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:54:51.596 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:54:51.596 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:54:51.596 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:54:52.132 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:54:52.145 DEBUG: qml: loaded Home page
+2024-09-03 21:54:52.361 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:54:52.432 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:54:52.768 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:54:52.959 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:54:53.151 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:54:53.631 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:54:53.823 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:54:54.015 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:13.276 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:55:13.277 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:55:13.277 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:55:13.278 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:55:13.658 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:13.669 DEBUG: qml: loaded Home page
+2024-09-03 21:55:13.993 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:14.065 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:14.417 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:14.609 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:14.800 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:15.280 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:15.473 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:15.665 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:27.794 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:55:27.795 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:55:27.795 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:55:27.795 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:55:28.204 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:28.215 DEBUG: qml: loaded Home page
+2024-09-03 21:55:28.519 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:28.590 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:28.925 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:29.117 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:29.309 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:29.789 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:29.981 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:30.172 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:59.434 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:55:59.435 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:55:59.435 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:55:59.435 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:55:59.820 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:55:59.833 DEBUG: qml: loaded Home page
+2024-09-03 21:56:00.089 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:56:00.160 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:56:00.497 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:56:00.688 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:56:00.880 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:56:01.360 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:56:01.552 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:56:01.745 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:15.110 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:58:15.110 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:58:15.111 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:58:15.111 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:58:15.502 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:15.511 DEBUG: qml: loaded Home page
+2024-09-03 21:58:15.813 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:15.885 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:16.222 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:16.414 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:16.605 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:17.085 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:17.277 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:17.470 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:33.761 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 21:58:33.762 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 21:58:33.762 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:58:33.763 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 21:58:34.139 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:34.158 DEBUG: qml: loaded Home page
+2024-09-03 21:58:34.377 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:34.449 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:34.785 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:34.977 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:35.169 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:35.649 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:35.841 DEBUG: qml: PathAnimation running: true
+2024-09-03 21:58:36.033 DEBUG: qml: PathAnimation running: true
+2024-09-03 22:07:04.949 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:07:04.949 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:07:04.949 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:07:04.950 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:07:05.587 DEBUG: qml: loaded Home page
+2024-09-03 22:08:24.279 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:08:24.280 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:08:24.280 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:08:24.281 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:08:24.710 DEBUG: qml: loaded Home page
+2024-09-03 22:09:25.608 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:09:25.609 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:09:25.609 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:09:25.610 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:09:26.030 DEBUG: qml: loaded Home page
+2024-09-03 22:10:04.552 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:10:04.552 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:10:04.553 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:10:04.553 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:10:04.950 DEBUG: qml: loaded Home page
+2024-09-03 22:10:37.905 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:10:37.906 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:10:37.906 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:10:37.906 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:10:38.305 DEBUG: qml: loaded Home page
+2024-09-03 22:12:29.905 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:12:29.906 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:12:29.906 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:12:29.906 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:12:30.315 DEBUG: qml: loaded Home page
+2024-09-03 22:12:30.570 WARNING: default: qrc:/qml/components/AreaSelector.qml:38: ReferenceError: foucs is not defined
+2024-09-03 22:12:30.572 WARNING: default: qrc:/qml/components/AreaSelector.qml:38: ReferenceError: foucs is not defined
+2024-09-03 22:13:16.541 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:13:16.542 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:13:16.542 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:13:16.542 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:13:16.955 DEBUG: qml: loaded Home page
+2024-09-03 22:13:17.199 WARNING: default: qrc:/qml/components/AreaSelector.qml:40: ReferenceError: foucs is not defined
+2024-09-03 22:13:17.201 WARNING: default: qrc:/qml/components/AreaSelector.qml:40: ReferenceError: foucs is not defined
+2024-09-03 22:14:21.348 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:14:21.349 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:14:21.349 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:14:21.349 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:14:21.747 DEBUG: qml: loaded Home page
+2024-09-03 22:14:22.037 WARNING: default: qrc:/qml/components/AreaSelector.qml:40: ReferenceError: foucs is not defined
+2024-09-03 22:14:22.039 WARNING: default: qrc:/qml/components/AreaSelector.qml:40: ReferenceError: foucs is not defined
+2024-09-03 22:14:46.339 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:14:46.340 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:14:46.340 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:14:46.340 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:14:46.752 DEBUG: qml: loaded Home page
+2024-09-03 22:15:48.114 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:15:48.115 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:15:48.115 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:15:48.115 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:15:48.522 DEBUG: qml: loaded Home page
+2024-09-03 22:16:06.972 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:16:06.973 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:16:06.973 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:16:06.973 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:16:07.392 DEBUG: qml: loaded Home page
+2024-09-03 22:16:09.969 DEBUG: qml: select
+2024-09-03 22:16:10.357 DEBUG: qml: select
+2024-09-03 22:16:10.536 DEBUG: qml: select
+2024-09-03 22:16:27.942 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:16:27.943 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:16:27.943 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:16:27.943 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:16:28.468 DEBUG: qml: loaded Home page
+2024-09-03 22:16:30.519 DEBUG: qml: select true
+2024-09-03 22:16:31.166 DEBUG: qml: select true
+2024-09-03 22:16:31.308 DEBUG: qml: select true
+2024-09-03 22:16:32.087 DEBUG: qml: select false
+2024-09-03 22:16:33.438 DEBUG: qml: select false
+2024-09-03 22:16:34.089 DEBUG: qml: select false
+2024-09-03 22:16:34.727 DEBUG: qml: select false
+2024-09-03 22:16:35.116 DEBUG: qml: select false
+2024-09-03 22:16:35.613 DEBUG: qml: select false
+2024-09-03 22:16:35.774 DEBUG: qml: select true
+2024-09-03 22:16:35.924 DEBUG: qml: select true
+2024-09-03 22:16:36.597 DEBUG: qml: select false
+2024-09-03 22:16:36.771 DEBUG: qml: select true
+2024-09-03 22:16:36.925 DEBUG: qml: select true
+2024-09-03 22:16:37.067 DEBUG: qml: select true
+2024-09-03 22:16:37.903 DEBUG: qml: select false
+2024-09-03 22:16:38.033 DEBUG: qml: select true
+2024-09-03 22:16:38.201 DEBUG: qml: select true
+2024-09-03 22:16:38.680 DEBUG: qml: select true
+2024-09-03 22:16:38.830 DEBUG: qml: select true
+2024-09-03 22:16:39.544 DEBUG: qml: select false
+2024-09-03 22:16:40.025 DEBUG: qml: select true
+2024-09-03 22:16:40.870 DEBUG: qml: select true
+2024-09-03 22:16:41.253 DEBUG: qml: select true
+2024-09-03 22:16:42.055 DEBUG: qml: select false
+2024-09-03 22:16:42.520 DEBUG: qml: select true
+2024-09-03 22:18:25.265 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:18:25.266 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:18:25.266 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:18:25.266 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:18:25.670 DEBUG: qml: loaded Home page
+2024-09-03 22:18:28.229 DEBUG: qml: select false
+2024-09-03 22:18:28.716 DEBUG: qml: select false
+2024-09-03 22:18:29.270 DEBUG: qml: select false
+2024-09-03 22:18:29.565 DEBUG: qml: select true
+2024-09-03 22:18:30.036 DEBUG: qml: select false
+2024-09-03 22:18:30.599 DEBUG: qml: select false
+2024-09-03 22:18:30.969 DEBUG: qml: select false
+2024-09-03 22:18:31.268 DEBUG: qml: select false
+2024-09-03 22:18:31.667 DEBUG: qml: select false
+2024-09-03 22:18:32.292 DEBUG: qml: select true
+2024-09-03 22:18:32.945 DEBUG: qml: select true
+2024-09-03 22:18:33.557 DEBUG: qml: select false
+2024-09-03 22:18:34.036 DEBUG: qml: select false
+2024-09-03 22:18:34.399 DEBUG: qml: select false
+2024-09-03 22:18:34.707 DEBUG: qml: select false
+2024-09-03 22:18:36.196 DEBUG: qml: select false
+2024-09-03 22:18:36.497 DEBUG: qml: select false
+2024-09-03 22:19:32.127 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:19:32.127 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:19:32.127 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:19:32.128 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:19:32.521 DEBUG: qml: loaded Home page
+2024-09-03 22:19:35.361 DEBUG: qml: select false
+2024-09-03 22:19:35.795 DEBUG: qml: select false
+2024-09-03 22:19:36.276 DEBUG: qml: select false
+2024-09-03 22:19:36.782 DEBUG: qml: select false
+2024-09-03 22:19:37.094 DEBUG: qml: select false
+2024-09-03 22:19:37.357 DEBUG: qml: select false
+2024-09-03 22:19:37.578 DEBUG: qml: select true
+2024-09-03 22:19:37.978 DEBUG: qml: select false
+2024-09-03 22:19:38.149 DEBUG: qml: select true
+2024-09-03 22:19:38.297 DEBUG: qml: select true
+2024-09-03 22:19:38.419 DEBUG: qml: select true
+2024-09-03 22:19:38.729 DEBUG: qml: select false
+2024-09-03 22:19:39.031 DEBUG: qml: select false
+2024-09-03 22:19:39.308 DEBUG: qml: select false
+2024-09-03 22:19:39.558 DEBUG: qml: select false
+2024-09-03 22:19:39.823 DEBUG: qml: select false
+2024-09-03 22:19:40.047 DEBUG: qml: select false
+2024-09-03 22:19:40.303 DEBUG: qml: select false
+2024-09-03 22:19:40.518 DEBUG: qml: select false
+2024-09-03 22:19:40.997 DEBUG: qml: select true
+2024-09-03 22:19:44.642 DEBUG: qml: select false
+2024-09-03 22:19:44.916 DEBUG: qml: select false
+2024-09-03 22:19:45.195 DEBUG: qml: select false
+2024-09-03 22:19:45.473 DEBUG: qml: select false
+2024-09-03 22:19:47.706 DEBUG: qml: select false
+2024-09-03 22:19:47.994 DEBUG: qml: select false
+2024-09-03 22:19:48.248 DEBUG: qml: select false
+2024-09-03 22:19:48.449 DEBUG: qml: select false
+2024-09-03 22:19:48.848 DEBUG: qml: select true
+2024-09-03 22:19:49.365 DEBUG: qml: select false
+2024-09-03 22:19:51.776 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:19:51.777 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:19:51.777 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:19:51.777 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:19:52.189 DEBUG: qml: loaded Home page
+2024-09-03 22:19:54.407 DEBUG: qml: select false
+2024-09-03 22:19:58.258 DEBUG: qml: select true
+2024-09-03 22:19:59.240 DEBUG: qml: select true
+2024-09-03 22:19:59.679 DEBUG: qml: select true
+2024-09-03 22:19:59.910 DEBUG: qml: select true
+2024-09-03 22:20:00.218 DEBUG: qml: select true
+2024-09-03 22:20:00.601 DEBUG: qml: select false
+2024-09-03 22:20:00.976 DEBUG: qml: select false
+2024-09-03 22:20:01.516 DEBUG: qml: select false
+2024-09-03 22:20:01.798 DEBUG: qml: select false
+2024-09-03 22:20:08.018 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:20:08.018 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:20:08.018 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:20:08.019 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:20:08.425 DEBUG: qml: loaded Home page
+2024-09-03 22:20:10.811 DEBUG: qml: select false
+2024-09-03 22:20:11.421 DEBUG: qml: select false
+2024-09-03 22:20:11.718 DEBUG: qml: select false
+2024-09-03 22:20:11.860 DEBUG: qml: select false
+2024-09-03 22:20:12.014 DEBUG: qml: select false
+2024-09-03 22:20:12.165 DEBUG: qml: select false
+2024-09-03 22:20:12.311 DEBUG: qml: select false
+2024-09-03 22:20:12.897 DEBUG: qml: select true
+2024-09-03 22:20:13.374 DEBUG: qml: select true
+2024-09-03 22:20:13.960 DEBUG: qml: select false
+2024-09-03 22:20:14.179 DEBUG: qml: select false
+2024-09-03 22:20:14.336 DEBUG: qml: select false
+2024-09-03 22:20:14.703 DEBUG: qml: select true
+2024-09-03 22:20:15.067 DEBUG: qml: select false
+2024-09-03 22:20:15.217 DEBUG: qml: select false
+2024-09-03 22:20:15.445 DEBUG: qml: select true
+2024-09-03 22:20:15.693 DEBUG: qml: select false
+2024-09-03 22:23:04.262 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:23:04.262 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:23:04.263 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:23:04.263 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:23:04.688 DEBUG: qml: loaded Home page
+2024-09-03 22:23:05.109 WARNING: default: qrc:/qml/components/AreaSelector.qml:46: ReferenceError: selectedIndex is not defined
+2024-09-03 22:23:05.111 WARNING: default: qrc:/qml/components/AreaSelector.qml:46: ReferenceError: selectedIndex is not defined
+2024-09-03 22:23:09.307 DEBUG: qml: select false
+2024-09-03 22:23:09.307 WARNING: default: qrc:/qml/components/AreaSelector.qml:43: Error: Invalid write to global property "selectedIndex"
+2024-09-03 22:23:09.697 DEBUG: qml: select true
+2024-09-03 22:23:09.697 WARNING: default: qrc:/qml/components/AreaSelector.qml:43: Error: Invalid write to global property "selectedIndex"
+2024-09-03 22:23:30.866 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:23:30.867 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:23:30.867 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:23:30.867 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:23:31.270 DEBUG: qml: loaded Home page
+2024-09-03 22:23:35.260 DEBUG: qml: select true
+2024-09-03 22:23:35.861 DEBUG: qml: select false
+2024-09-03 22:23:36.676 DEBUG: qml: select true
+2024-09-03 22:23:37.190 DEBUG: qml: select false
+2024-09-03 22:23:37.507 DEBUG: qml: select true
+2024-09-03 22:23:37.911 DEBUG: qml: select false
+2024-09-03 22:23:38.371 DEBUG: qml: select true
+2024-09-03 22:24:08.065 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:24:08.066 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:24:08.066 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:24:08.067 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:24:08.472 DEBUG: qml: loaded Home page
+2024-09-03 22:24:08.729 WARNING: default: qrc:/qml/components/AreaSelector.qml:40:13: Unable to assign [undefined] to bool
+2024-09-03 22:24:08.731 WARNING: default: qrc:/qml/components/AreaSelector.qml:40:13: Unable to assign [undefined] to bool
+2024-09-03 22:24:10.735 DEBUG: qml: select true
+2024-09-03 22:24:11.149 DEBUG: qml: select false
+2024-09-03 22:24:11.522 DEBUG: qml: select true
+2024-09-03 22:24:11.918 DEBUG: qml: select false
+2024-09-03 22:24:12.293 DEBUG: qml: select true
+2024-09-03 22:24:30.084 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:24:30.085 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:24:30.085 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:24:30.085 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:24:30.483 DEBUG: qml: loaded Home page
+2024-09-03 22:24:32.742 DEBUG: qml: select false
+2024-09-03 22:24:33.279 DEBUG: qml: select false
+2024-09-03 22:24:33.713 DEBUG: qml: select false
+2024-09-03 22:24:34.271 DEBUG: qml: select false
+2024-09-03 22:24:34.777 DEBUG: qml: select false
+2024-09-03 22:24:35.269 DEBUG: qml: select false
+2024-09-03 22:24:35.718 DEBUG: qml: select false
+2024-09-03 22:24:36.210 DEBUG: qml: select false
+2024-09-03 22:24:36.719 DEBUG: qml: select false
+2024-09-03 22:24:36.897 DEBUG: qml: select false
+2024-09-03 22:24:37.045 DEBUG: qml: select false
+2024-09-03 22:24:37.190 DEBUG: qml: select false
+2024-09-03 22:24:37.800 DEBUG: qml: select false
+2024-09-03 22:24:38.274 DEBUG: qml: select false
+2024-09-03 22:24:38.668 DEBUG: qml: select false
+2024-09-03 22:24:39.117 DEBUG: qml: select false
+2024-09-03 22:24:39.539 DEBUG: qml: select false
+2024-09-03 22:24:39.954 DEBUG: qml: select false
+2024-09-03 22:24:54.544 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:24:54.545 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:24:54.545 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:24:54.545 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:24:54.947 DEBUG: qml: loaded Home page
+2024-09-03 22:24:55.265 WARNING: default: qrc:/qml/components/AreaSelector.qml:47: ReferenceError: currentIndex is not defined
+2024-09-03 22:24:55.267 WARNING: default: qrc:/qml/components/AreaSelector.qml:47: ReferenceError: currentIndex is not defined
+2024-09-03 22:24:57.157 DEBUG: qml: select false
+2024-09-03 22:24:58.236 DEBUG: qml: select false
+2024-09-03 22:24:59.309 DEBUG: qml: select false
+2024-09-03 22:25:01.149 DEBUG: qml: select false
+2024-09-03 22:25:19.376 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:25:19.376 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:25:19.377 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:25:19.377 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:25:19.801 DEBUG: qml: loaded Home page
+2024-09-03 22:25:22.013 DEBUG: qml: select false
+2024-09-03 22:25:22.363 DEBUG: qml: select false
+2024-09-03 22:25:23.640 DEBUG: qml: select false
+2024-09-03 22:25:24.099 DEBUG: qml: select false
+2024-09-03 22:25:24.456 DEBUG: qml: select false
+2024-09-03 22:25:58.567 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:25:58.568 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:25:58.568 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:25:58.568 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:25:58.968 DEBUG: qml: loaded Home page
+2024-09-03 22:26:01.469 DEBUG: qml: select false
+2024-09-03 22:26:01.469 WARNING: default: qrc:/qml/components/AreaSelector.qml:44: ReferenceError: currentIndex is not defined
+2024-09-03 22:26:02.113 DEBUG: qml: select false
+2024-09-03 22:26:02.113 WARNING: default: qrc:/qml/components/AreaSelector.qml:44: ReferenceError: currentIndex is not defined
+2024-09-03 22:26:12.424 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:26:12.425 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:26:12.425 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:26:12.425 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:26:12.821 DEBUG: qml: loaded Home page
+2024-09-03 22:26:15.093 DEBUG: qml: select false
+2024-09-03 22:26:15.749 DEBUG: qml: select false
+2024-09-03 22:26:16.606 DEBUG: qml: select false
+2024-09-03 22:27:03.267 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:27:03.268 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:27:03.268 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:27:03.268 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:27:03.810 DEBUG: qml: loaded Home page
+2024-09-03 22:27:06.408 DEBUG: qml: select 0 1
+2024-09-03 22:27:08.103 DEBUG: qml: select 0 0
+2024-09-03 22:27:08.989 DEBUG: qml: select 0 0
+2024-09-03 22:27:09.446 DEBUG: qml: select 0 0
+2024-09-03 22:27:10.222 DEBUG: qml: select 0 0
+2024-09-03 22:27:10.622 DEBUG: qml: select 0 0
+2024-09-03 22:27:11.037 DEBUG: qml: select 0 0
+2024-09-03 22:27:19.549 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:27:19.550 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:27:19.550 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:27:19.551 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:27:19.947 DEBUG: qml: loaded Home page
+2024-09-03 22:27:22.272 DEBUG: qml: select 0 0
+2024-09-03 22:27:23.010 DEBUG: qml: select 0 0
+2024-09-03 22:27:23.404 DEBUG: qml: select 0 0
+2024-09-03 22:30:31.824 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:30:31.825 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:30:31.825 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:30:31.825 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:30:32.252 DEBUG: qml: loaded Home page
+2024-09-03 22:30:34.941 WARNING: default: qrc:/qml/components/AreaSelector.qml:47: ReferenceError: selectedIndex is not defined
+2024-09-03 22:30:35.217 WARNING: default: qrc:/qml/components/AreaSelector.qml:47: ReferenceError: selectedIndex is not defined
+2024-09-03 22:30:36.103 WARNING: default: qrc:/qml/components/AreaSelector.qml:47: ReferenceError: selectedIndex is not defined
+2024-09-03 22:30:45.173 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:30:45.173 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:30:45.174 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:30:45.174 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:30:45.738 DEBUG: qml: loaded Home page
+2024-09-03 22:30:47.846 DEBUG: qml: select 0
+2024-09-03 22:30:48.223 DEBUG: qml: select 1
+2024-09-03 22:30:48.523 DEBUG: qml: select 0
+2024-09-03 22:30:49.021 DEBUG: qml: select 1
+2024-09-03 22:30:49.565 DEBUG: qml: select 0
+2024-09-03 22:30:49.905 DEBUG: qml: select 1
+2024-09-03 22:30:51.518 DEBUG: qml: select 0
+2024-09-03 22:30:51.773 DEBUG: qml: select 1
+2024-09-03 22:30:52.019 DEBUG: qml: select 0
+2024-09-03 22:30:52.945 DEBUG: qml: select 1
+2024-09-03 22:30:53.440 DEBUG: qml: select 0
+2024-09-03 22:30:53.803 DEBUG: qml: select 1
+2024-09-03 22:30:54.130 DEBUG: qml: select 0
+2024-09-03 22:30:54.488 DEBUG: qml: select 1
+2024-09-03 22:30:57.030 DEBUG: qml: select 0
+2024-09-03 22:30:57.307 DEBUG: qml: select 0
+2024-09-03 22:30:57.677 DEBUG: qml: select 1
+2024-09-03 22:30:58.057 DEBUG: qml: select 0
+2024-09-03 22:30:58.342 DEBUG: qml: select 1
+2024-09-03 22:30:58.578 DEBUG: qml: select 0
+2024-09-03 22:31:02.953 DEBUG: qml: select 1
+2024-09-03 22:31:03.223 DEBUG: qml: select 0
+2024-09-03 22:31:07.431 DEBUG: qml: select 1
+2024-09-03 22:31:07.712 DEBUG: qml: select 0
+2024-09-03 22:31:37.440 DEBUG: qml: select 1
+2024-09-03 22:31:37.717 DEBUG: qml: select 0
+2024-09-03 22:31:37.985 DEBUG: qml: select 1
+2024-09-03 22:31:38.189 DEBUG: qml: select 0
+2024-09-03 22:41:51.991 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:41:51.992 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:41:51.992 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:41:51.993 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:41:52.553 DEBUG: qml: loaded Home page
+2024-09-03 22:42:13.442 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:42:13.443 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:42:13.443 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:42:13.443 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:42:13.869 DEBUG: qml: loaded Home page
+2024-09-03 22:42:28.804 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:42:28.805 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:42:28.805 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:42:28.805 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:42:29.206 DEBUG: qml: loaded Home page
+2024-09-03 22:42:32.478 DEBUG: qml: select 0
+2024-09-03 22:42:32.860 DEBUG: qml: select 1
+2024-09-03 22:42:33.460 DEBUG: qml: select 0
+2024-09-03 22:42:33.761 DEBUG: qml: select 1
+2024-09-03 22:48:26.525 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:48:26.525 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:48:26.526 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:48:26.526 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:48:26.935 DEBUG: qml: loaded Home page
+2024-09-03 22:48:27.272 WARNING: default: qrc:/qml/components/TableGrid.qml:67: ReferenceError: area_list is not defined
+2024-09-03 22:48:40.733 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:48:40.734 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:48:40.734 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:48:40.734 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:48:41.138 DEBUG: qml: loaded Home page
+2024-09-03 22:49:09.789 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:49:09.790 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:49:09.790 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:49:09.790 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:49:10.191 DEBUG: qml: loaded Home page
+2024-09-03 22:49:51.890 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:49:51.891 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:49:51.891 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:49:51.891 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:49:52.301 DEBUG: qml: loaded Home page
+2024-09-03 22:49:54.997 DEBUG: qml: select 0
+2024-09-03 22:49:56.005 DEBUG: qml: select 1
+2024-09-03 22:50:12.349 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:50:12.350 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:50:12.350 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:50:12.350 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:50:12.759 DEBUG: qml: loaded Home page
+2024-09-03 22:50:32.161 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:50:32.161 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:50:32.162 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:50:32.162 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:50:32.569 DEBUG: qml: loaded Home page
+2024-09-03 22:50:52.489 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:50:52.490 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:50:52.490 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:50:52.490 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:50:52.899 DEBUG: qml: loaded Home page
+2024-09-03 22:51:04.432 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:51:04.433 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:51:04.433 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:51:04.434 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:51:04.843 DEBUG: qml: loaded Home page
+2024-09-03 22:52:00.414 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:52:00.415 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:52:00.415 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:52:00.415 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:52:00.957 DEBUG: qml: loaded Home page
+2024-09-03 22:52:14.290 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:52:14.291 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:52:14.291 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:52:14.291 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:52:14.870 DEBUG: qml: loaded Home page
+2024-09-03 22:52:44.062 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:52:44.062 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:52:44.063 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:52:44.063 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:52:44.468 DEBUG: qml: loaded Home page
+2024-09-03 22:53:11.633 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:53:11.634 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:53:11.635 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:53:11.635 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:53:12.049 DEBUG: qml: loaded Home page
+2024-09-03 22:53:20.602 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 22:53:20.603 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 22:53:20.603 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:53:20.603 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 22:53:21.118 DEBUG: qml: loaded Home page
+2024-09-03 23:03:05.615 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:03:05.616 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:03:05.616 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:03:05.616 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:03:06.031 DEBUG: qml: loaded Home page
+2024-09-03 23:04:03.478 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:04:03.479 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:04:03.479 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:04:03.479 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:04:03.882 DEBUG: qml: loaded Home page
+2024-09-03 23:04:33.261 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:04:33.262 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:04:33.262 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:04:33.262 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:04:33.665 DEBUG: qml: loaded Home page
+2024-09-03 23:04:48.723 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:04:48.724 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:04:48.724 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:04:48.724 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:04:49.131 DEBUG: qml: loaded Home page
+2024-09-03 23:06:51.768 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:06:51.768 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:06:51.769 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:06:51.769 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:06:52.191 DEBUG: qml: loaded Home page
+2024-09-03 23:09:10.751 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:09:10.752 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:09:10.752 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:09:10.752 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:09:11.366 DEBUG: qml: loaded Home page
+2024-09-03 23:09:40.197 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:09:40.198 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:09:40.198 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:09:40.199 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:09:40.597 DEBUG: qml: loaded Home page
+2024-09-03 23:09:40.870 WARNING: default: qrc:/qml/components/TableGrid.qml:68:5: QML ListView: Cannot specify left, right, and horizontalCenter anchors at the same time.
+2024-09-03 23:10:22.072 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:10:22.073 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:10:22.073 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:10:22.073 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:10:22.472 DEBUG: qml: loaded Home page
+2024-09-03 23:10:42.750 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:10:42.751 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:10:42.751 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:10:42.751 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:10:43.156 DEBUG: qml: loaded Home page
+2024-09-03 23:11:06.638 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:11:06.639 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:11:06.639 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:11:06.639 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:11:07.034 DEBUG: qml: loaded Home page
+2024-09-03 23:11:39.140 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:11:39.141 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:11:39.141 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:11:39.141 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:11:39.554 DEBUG: qml: loaded Home page
+2024-09-03 23:13:41.764 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:13:41.765 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:13:41.765 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:13:41.766 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:13:42.168 DEBUG: qml: loaded Home page
+2024-09-03 23:13:55.837 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:13:55.837 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:13:55.837 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:13:55.837 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:13:56.246 DEBUG: qml: loaded Home page
+2024-09-03 23:14:18.776 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:14:18.776 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:14:18.776 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:14:18.777 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:14:19.182 DEBUG: qml: loaded Home page
+2024-09-03 23:14:54.757 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:14:54.758 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:14:54.758 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:14:54.758 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:14:55.152 DEBUG: qml: loaded Home page
+2024-09-03 23:15:22.476 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:15:22.477 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:15:22.477 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:15:22.477 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:15:23.033 DEBUG: qml: loaded Home page
+2024-09-03 23:17:33.115 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:17:33.115 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:17:33.116 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:17:33.116 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:17:33.524 DEBUG: qml: loaded Home page
+2024-09-03 23:17:54.824 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:17:54.825 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:17:54.825 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:17:54.825 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:17:55.214 DEBUG: qml: loaded Home page
+2024-09-03 23:18:12.186 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:18:12.187 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:18:12.187 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:18:12.187 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:18:12.753 DEBUG: qml: loaded Home page
+2024-09-03 23:26:08.916 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:26:08.917 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:26:08.917 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:26:08.917 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:26:09.043 CRITICAL: qml: qrc:/qml/main.qml:83 Type PD3_Greeting unavailable
+qrc:/qml/PD3UI/PD3_Greeting.qml:33 Invalid property assignment: color expected
+
+2024-09-03 23:26:28.638 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:26:28.638 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:26:28.638 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:26:28.639 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:26:29.242 DEBUG: qml: loaded Home page
+2024-09-03 23:26:34.902 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:26:34.903 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:26:34.903 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:26:34.903 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:26:35.312 DEBUG: qml: loaded Home page
+2024-09-03 23:27:23.731 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:27:23.732 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:27:23.732 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:27:23.733 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:27:24.168 DEBUG: qml: loaded Home page
+2024-09-03 23:27:38.618 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:27:38.619 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:27:38.619 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:27:38.619 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:27:39.216 DEBUG: qml: loaded Home page
+2024-09-03 23:27:47.122 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:27:47.123 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:27:47.124 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:27:47.124 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:27:47.688 DEBUG: qml: loaded Home page
+2024-09-03 23:28:07.352 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:28:07.353 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:28:07.353 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:28:07.353 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:28:07.760 DEBUG: qml: loaded Home page
+2024-09-03 23:28:50.845 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:28:50.846 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:28:50.846 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:28:50.846 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:28:51.270 DEBUG: qml: loaded Home page
+2024-09-03 23:30:10.691 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:30:10.691 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:30:10.692 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:30:10.692 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:30:11.116 DEBUG: qml: loaded Home page
+2024-09-03 23:30:40.573 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:30:40.573 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:30:40.574 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:30:40.574 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:30:41.006 DEBUG: qml: loaded Home page
+2024-09-03 23:30:48.753 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:30:48.754 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:30:48.754 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:30:48.754 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:30:49.307 DEBUG: qml: loaded Home page
+2024-09-03 23:31:07.811 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:31:07.811 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:31:07.811 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:31:07.812 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:31:08.423 DEBUG: qml: loaded Home page
+2024-09-03 23:31:26.544 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:31:26.545 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:31:26.545 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:31:26.545 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:31:26.972 DEBUG: qml: loaded Home page
+2024-09-03 23:32:02.100 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:32:02.100 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:32:02.101 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:32:02.101 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:32:02.667 DEBUG: qml: loaded Home page
+2024-09-03 23:32:12.759 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:32:12.759 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:32:12.759 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:32:12.760 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:32:13.365 DEBUG: qml: loaded Home page
+2024-09-03 23:36:08.531 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:36:08.531 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:36:08.532 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:36:08.532 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:36:08.961 DEBUG: qml: loaded Home page
+2024-09-03 23:36:08.962 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:29: ReferenceError: root is not defined
+2024-09-03 23:36:22.007 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:36:22.008 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:36:22.008 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:36:22.008 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:36:22.438 DEBUG: qml: loaded Home page
+2024-09-03 23:36:22.439 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:29: ReferenceError: root is not defined
+2024-09-03 23:36:35.887 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:36:35.888 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:36:35.888 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:36:35.888 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:36:36.318 DEBUG: qml: loaded Home page
+2024-09-03 23:36:36.321 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:28: ReferenceError: root is not defined
+2024-09-03 23:36:41.239 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:36:41.240 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:36:41.240 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:36:41.240 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:36:41.690 DEBUG: qml: loaded Home page
+2024-09-03 23:36:41.691 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:28: ReferenceError: root is not defined
+2024-09-03 23:36:47.209 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:36:47.210 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:36:47.210 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:36:47.210 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:36:47.612 DEBUG: qml: loaded Home page
+2024-09-03 23:36:47.614 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:28: ReferenceError: root is not defined
+2024-09-03 23:48:15.549 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:48:15.550 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:48:15.550 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:48:15.550 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:48:16.122 DEBUG: qml: loaded Home page
+2024-09-03 23:48:16.124 WARNING: default: qrc:/qml/PD3UI/PD3_Greeting.qml:28: ReferenceError: root is not defined
+2024-09-03 23:48:16.285 WARNING: default: qrc:/qml/PD3UI/Drags.qml:14: ReferenceError: CusConfig is not defined
+2024-09-03 23:48:16.285 WARNING: default: qrc:/qml/PD3UI/Drags.qml:21: ReferenceError: CusConfig is not defined
+2024-09-03 23:48:25.628 WARNING: qt.qml.context: qrc:/qml/PD3UI/Drags.qml:27:21 Parameter "xOffset" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead.
+2024-09-03 23:49:57.945 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:49:57.946 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:49:57.946 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:49:57.946 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:49:58.347 DEBUG: qml: loaded Home page
+2024-09-03 23:50:01.209 WARNING: qt.qml.context: qrc:/qml/PD3UI/Drags.qml:28:21 Parameter "xOffset" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead.
+2024-09-03 23:50:36.704 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:50:36.705 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:50:36.705 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:50:36.705 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:50:37.102 DEBUG: qml: loaded Home page
+2024-09-03 23:50:39.571 WARNING: qt.qml.context: qrc:/qml/PD3UI/Drags.qml:28:21 Parameter "xOffset" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead.
+2024-09-03 23:52:22.984 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:52:22.985 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:52:22.985 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:52:22.985 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:52:23.378 DEBUG: qml: loaded Home page
+2024-09-03 23:52:42.803 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:52:42.804 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:52:42.804 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:52:42.804 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:52:43.201 DEBUG: qml: loaded Home page
+2024-09-03 23:53:00.995 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:53:00.996 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:53:00.996 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:53:00.996 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:53:01.376 DEBUG: qml: loaded Home page
+2024-09-03 23:53:03.927 WARNING: qt.qml.context: qrc:/qml/PD3UI/Drags.qml:29:21 Parameter "xOffset" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead.
+2024-09-03 23:55:57.976 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-03 23:55:57.977 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-03 23:55:57.977 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:55:57.977 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-03 23:55:58.528 DEBUG: qml: loaded Home page
+2024-09-03 23:55:58.699 WARNING: default: qrc:/qml/PD3UI/Drags.qml:57: ReferenceError: CusConfig is not defined
+2024-09-03 23:56:00.951 WARNING: qt.qml.context: qrc:/qml/PD3UI/Drags.qml:29:21 Parameter "xOffset" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead.
+2024-09-03 23:56:01.941 WARNING: qt.qml.context: qrc:/qml/PD3UI/CusRectDraw.qml:26:9 Parameter "mouse" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead.
+2024-09-04 00:00:10.947 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-04 00:00:10.948 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-04 00:00:10.948 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:00:10.948 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:00:11.546 DEBUG: qml: loaded Home page
+2024-09-04 00:00:11.711 WARNING: default: qrc:/qml/PD3UI/Drags.qml:57: ReferenceError: CusConfig is not defined
+2024-09-04 00:02:21.229 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-04 00:02:21.230 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-04 00:02:21.230 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:02:21.230 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:02:21.846 DEBUG: qml: loaded Home page
+2024-09-04 00:02:21.990 WARNING: default: qrc:/qml/components/TableOpres.qml:13:5: Type Drags unavailable
+2024-09-04 00:02:21.991 WARNING: default: qrc:/qml/PD3UI/Drags.qml:44:17: Type CusTemplateDragBorder unavailable
+2024-09-04 00:02:21.991 WARNING: default: qrc:/qml/PD3UI/CusTemplateDragBorder.qml:192:9: BasicTooltip is not a type
+2024-09-04 00:02:40.241 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-04 00:02:40.241 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-04 00:02:40.241 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:02:40.242 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:02:40.656 DEBUG: qml: loaded Home page
+2024-09-04 00:02:43.127 WARNING: qt.qml.context: qrc:/qml/PD3UI/Drags.qml:29:21 Parameter "xOffset" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead.
+2024-09-04 00:03:08.422 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-04 00:03:08.422 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-04 00:03:08.423 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:03:08.423 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:03:08.803 DEBUG: qml: loaded Home page
+2024-09-04 00:03:22.150 DEBUG: qml: select 0
+2024-09-04 00:03:22.999 DEBUG: qml: select 1
+2024-09-04 00:04:56.723 WARNING: qt.qml.context: qrc:/qml/PD3UI/Drags.qml:29:21 Parameter "xOffset" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead.
+2024-09-04 00:06:02.221 WARNING: qt.qml.context: qrc:/qml/PD3UI/CusRectDraw.qml:26:9 Parameter "mouse" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead.
+2024-09-04 00:06:33.778 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-04 00:06:33.779 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-04 00:06:33.779 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:06:33.779 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:06:34.175 DEBUG: qml: loaded Home page
+2024-09-04 00:12:07.912 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-04 00:12:07.913 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-04 00:12:07.913 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:12:07.913 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-04 00:12:08.320 DEBUG: qml: loaded Home page
+2024-09-04 00:17:36.349 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-09-04 00:17:36.751 DEBUG: qml: loaded Home page
