@@ -1606,3 +1606,79 @@ qrc:/qml/PD3UI/PD3_Greeting.qml:33 Invalid property assignment: color expected
 2024-09-04 00:12:08.320 DEBUG: qml: loaded Home page
 2024-09-04 00:17:36.349 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
 2024-09-04 00:17:36.751 DEBUG: qml: loaded Home page
+2024-09-05 23:32:29.175 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-05 23:32:29.176 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-05 23:32:29.176 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-05 23:32:29.176 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-05 23:32:29.677 DEBUG: qml: loaded Home page
+2024-09-05 23:32:36.066 DEBUG: qml: select 0
+2024-09-05 23:32:36.341 DEBUG: qml: select 0
+2024-09-05 23:32:36.815 DEBUG: qml: select 1
+2024-09-05 23:32:37.115 DEBUG: qml: select 0
+2024-09-05 23:32:37.383 DEBUG: qml: select 1
+2024-09-05 23:32:37.684 DEBUG: qml: select 0
+2024-09-05 23:33:25.000 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-05 23:33:25.000 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-05 23:33:25.000 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-05 23:33:25.001 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-05 23:33:25.392 DEBUG: qml: loaded Home page
+2024-09-05 23:34:13.994 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-05 23:34:13.994 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-05 23:34:13.995 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-05 23:34:13.995 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-05 23:34:14.380 DEBUG: qml: loaded Home page
+2024-09-05 23:36:57.999 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-05 23:36:58.000 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-05 23:36:58.000 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-05 23:36:58.000 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-05 23:36:58.404 DEBUG: qml: loaded Home page
+2024-09-05 23:37:02.217 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-09-05 23:37:02.652 DEBUG: qml: loaded Home page
+2024-09-05 23:39:05.109 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-05 23:39:05.110 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-05 23:39:05.110 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-05 23:39:05.111 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-05 23:39:05.777 WARNING: default: qrc:/qt/qml/FluentUI/Controls/FluAppBar.qml:115:9: QML QQuickImage: Cannot open: qrc:/public/logo.ico
+2024-09-05 23:39:05.824 DEBUG: qml: loaded Home page size: 1216, 718
+2024-09-05 23:39:11.741 DEBUG: qml: clicked
+2024-09-05 23:39:13.162 DEBUG: qml: select 0
+2024-09-05 23:39:13.847 DEBUG: qml: select 5
+2024-09-05 23:39:14.224 DEBUG: qml: select 4
+2024-09-05 23:39:14.543 DEBUG: qml: select 3
+2024-09-05 23:39:14.885 DEBUG: qml: select 2
+2024-09-05 23:39:15.207 DEBUG: qml: select 1
+2024-09-05 23:39:37.669 DEBUG: qml: clicked
+2024-09-07 15:13:20.016 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-07 15:13:20.016 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-07 15:13:20.017 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-07 15:13:20.017 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-07 15:13:20.690 WARNING: default: qrc:/qt/qml/FluentUI/Controls/FluAppBar.qml:115:9: QML QQuickImage: Cannot open: qrc:/public/logo.ico
+2024-09-07 15:13:20.721 DEBUG: qml: loaded Home page size: 1216, 718
+2024-09-07 15:13:26.518 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-09-07 15:13:27.301 DEBUG: qml: loaded Home page size: 1216, 748
+2024-09-07 15:19:09.602 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-07 15:19:09.602 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-07 15:19:09.602 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-07 15:19:09.602 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-07 15:19:10.015 WARNING: default: qrc:/qt/qml/FluentUI/Controls/FluAppBar.qml:115:9: QML QQuickImage: Cannot open: qrc:/public/logo.ico
+2024-09-07 15:19:10.031 DEBUG: qml: loaded Home page size: 1216, 718
+2024-09-07 15:19:13.168 WARNING: default: qrc:/qml/pages/Bills.qml: No such file or directory
+2024-09-07 15:19:13.839 DEBUG: qml: loaded Home page size: 1216, 748
+2024-09-07 15:19:17.043 DEBUG: qml: select 0
+2024-09-07 15:19:17.527 DEBUG: qml: select 5
+2024-09-07 15:19:18.150 DEBUG: qml: select 4
+2024-09-07 15:28:17.690 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-07 15:28:17.691 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-07 15:28:17.691 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-07 15:28:17.691 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-07 15:28:18.173 WARNING: default: qrc:/qt/qml/FluentUI/Controls/FluAppBar.qml:115:9: QML QQuickImage: Cannot open: qrc:/public/logo.ico
+2024-09-07 15:28:18.213 DEBUG: qml: loaded Order page size: 1216, 718
+2024-09-07 15:28:25.537 DEBUG: qml: select 0
+2024-09-07 15:28:25.954 DEBUG: qml: select 1
+2024-09-07 15:28:26.661 DEBUG: qml: select 2
+2024-09-07 15:28:27.057 DEBUG: qml: select 3
+2024-09-07 15:28:28.190 DEBUG: qml: select 4
+2024-09-07 15:28:34.491 DEBUG: qml: loaded Home page size: 1216, 748
+2024-09-07 15:28:35.778 DEBUG: qml: 0 647
+2024-09-07 15:28:40.513 DEBUG: qml: 0 647
+2024-09-07 15:28:43.189 DEBUG: qml: clicked

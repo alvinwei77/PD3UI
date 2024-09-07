@@ -37,7 +37,7 @@ QVariantMap TestManager::insertData(const QString &text, const int id){
 
 QVariantMap TestManager::testData(const QString &text, const int id) {
     QueryResult res = taskExecutor->execute([=](QSqlDatabase &db) -> QueryResult {
-        QString queryStr = globalSqls::INSERT_TEST_DATA(text, id);
+        QString queryStr = globalSqls::INSERT_TEST(text, id);
         QueryResult res= pgpool::instance()->executeQuery(queryStr, db);
         return res;
     });

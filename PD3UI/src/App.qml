@@ -8,7 +8,7 @@ FluLauncher {
     id: app
     Component.onCompleted: {
         FluApp.init(app)
-        FluApp.windowIcon = "qrc:/public/pd3logo.png"
+        FluApp.windowIcon = "qrc:/public/logo.ico"
         FluRouter.routes = {
             "/":"qrc:/qml/main.qml",
         }

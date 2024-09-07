@@ -32,38 +32,28 @@ void Logger::messageHandler(QtMsgType type, const QMessageLogContext &context, c
     QTextStream out(&logFile);
     out << QDateTime::currentDateTime().toString("yyyy-MM-dd hh:mm:ss.zzz ");
 
-    QString logMsg;
     switch (type) {
     case QtDebugMsg:
-        logMsg = QString("DEBUG: %1: %2").arg(context.category).arg(msg);
-        out << logMsg << "\n";
-        qDebug() << logMsg;  // 同步输出到控制台
+        out << "DEBUG: ";
         break;
     case QtInfoMsg:
-        logMsg = QString("INFO: %1: %2").arg(context.category).arg(msg);
-        out << logMsg << "\n";
-        qInfo() << logMsg;  // 同步输出到控制台
+        out << "INFO: ";
         break;
     case QtWarningMsg:
-        logMsg = QString("WARNING: %1: %2").arg(context.category).arg(msg);
-        out << logMsg << "\n";
-        qWarning() << logMsg;  // 同步输出到控制台
+        out << "WARNING: ";
         break;
     case QtCriticalMsg:
-        logMsg = QString("CRITICAL: %1: %2").arg(context.category).arg(msg);
-        out << logMsg << "\n";
-        qCritical() << logMsg;  // 同步输出到控制台
+        out << "CRITICAL: ";
         break;
     case QtFatalMsg:
-        logMsg = QString("FATAL: %1: %2").arg(context.category).arg(msg);
-        out << logMsg << "\n";
-        qFatal("%s", logMsg.toStdString().c_str());  // 同步输出到控制台并中止程序
-        break;
+        out << "FATAL: ";
+        out << msg;
+        abort();
     }
 
+    out << context.category << ": " << msg << "\n";
     out.flush();
 }
-
 
 void Logger::loadConfiguration() {
     ConfigManager* config = ConfigManager::instance();
