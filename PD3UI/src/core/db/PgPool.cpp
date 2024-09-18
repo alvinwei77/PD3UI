@@ -3,6 +3,7 @@
 #include <QSqlError>
 #include <QSqlQuery>
 #include <QSqlRecord>
+#include <stdexcept>
 
 QList<QSqlDatabase> pgpool::freeConnections;
 QList<QSqlDatabase> pgpool::usedConnections;

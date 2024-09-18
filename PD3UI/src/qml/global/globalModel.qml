@@ -9,6 +9,28 @@ QtObject{
     // 页面设置
     property int pageMargin: 10
     property string pageColor: "white"
+    property var backgroundColor: {
+        "whole_background": "white",
+        "layer_2": "lightgray"
+    }
+    property var dishGridColor: {
+        "default": "white",
+        "default_text": "black",
+        "selected": "#4A9CE8",
+        "selected_text": "white"
+    }
+    property var tabColor: {
+        "default": "white",
+        "default_text": "black",
+        "selected": "#1684FC",
+        "selected_text": "white"
+    }
+    property var buttonsColor:{
+        "style1_bg":"#4A9CE8",
+        "style1_text":"white"
+    }
+
+
 
     // 引用
     property string home_area_source: "qrc:/qml/components/TableArea.qml"

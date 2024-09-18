@@ -13,6 +13,7 @@ FluWindow {
     launchMode: FluWindowType.SingleTask
     backgroundColor: Config.backgroundColor
     visible: true
+    autoMaximize: true
 
     property bool compacted: true
     property bool pageLoaded: false
@@ -78,10 +79,10 @@ FluWindow {
         }
     }
 
-    // PD3_Greeting {
-    //     id: greetings
-    //     z: 999
-    // }
+    PD3_Greeting {
+        id: greetings
+        z: 999
+    }
 
     Connections {
         target: dbService

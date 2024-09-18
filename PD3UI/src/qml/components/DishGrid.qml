@@ -1,11 +1,12 @@
 import QtQuick 2.15
+import "../global"
 
 Item {
     id: root
     anchors.fill: parent
     Rectangle {
         anchors.fill: parent
-        color: "lightgray"
+        color: GlobalModel.backgroundColor["layer_2"]
     }
 
     ListModel {
@@ -26,14 +27,14 @@ Item {
             id: table
             width: gridview.cellWidth - 30
             height: gridview.cellWidth - 30
-            color: gridview.currentIndex === index ? "#4A9CE8" : "white"
+            color: gridview.currentIndex === index ? GlobalModel.dishGridColor["selected"] : GlobalModel.dishGridColor["default"]
             Text {
                 id: dish_id
                 text: `#${model.id}`
                 font.bold: true
                 font.pixelSize: 20
                 font.weight: 10
-                color: gridview.currentIndex === index ? "white" : "black"
+                color: gridview.currentIndex === index ? GlobalModel.dishGridColor["selected_text"] : GlobalModel.dishGridColor["default_text"]
                 anchors {
                     horizontalCenter: parent.horizontalCenter
                     bottom: dish_name.top
@@ -45,7 +46,7 @@ Item {
                 text: model.name
                 font.bold: true
                 font.pixelSize: 20
-                color: gridview.currentIndex === index ? "white" : "black"
+                color: gridview.currentIndex === index ? GlobalModel.dishGridColor["selected_text"] : GlobalModel.dishGridColor["default_text"]
                 anchors {
                     centerIn: parent
                     verticalCenterOffset: 5

@@ -13,7 +13,7 @@ Item {
 
     Rectangle {
         anchors.fill: parent
-        color: "white"
+        color: GlobalModel.backgroundColor["whole_background"]
     }
 
     ListModel {
@@ -79,9 +79,9 @@ Item {
                     text: index+1
                     font.bold: true
                     font.pixelSize: 12
-                    textColor: orders_.currentIndex === index ? "white": "black"
+                    textColor: orders_.currentIndex === index ? GlobalModel.tabColor["selected_text"]: GlobalModel.tabColor["default_text"]
                     background: Rectangle {
-                        color: orders_.currentIndex === index  ? "#1684FC": "white"
+                        color: orders_.currentIndex === index  ? GlobalModel.tabColor["selected"]: GlobalModel.tabColor["default"]
                         radius: 12
                         border.color: "lightgray"
                         border.width: 1
@@ -306,13 +306,13 @@ Item {
             }
             Rectangle {
                 id: order_btn
-                color: "#4A9CE8"
+                color: GlobalModel.buttonsColor["style1_bg"]
                 Layout.preferredHeight: 100
                 Layout.fillWidth: true
                 Text {
                     text: qsTr("立即下单")
                     anchors.centerIn: parent
-                    color: "white"
+                    color: GlobalModel.buttonsColor["style1_text"]
                     font.bold: true
                     font.pixelSize: 30
                 }
