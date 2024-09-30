@@ -15,6 +15,7 @@ public:
     Q_INVOKABLE QVariantMap fetchData(const QString &text, const int id);
     Q_INVOKABLE QVariantMap insertData(const QString &text, const int id);
     Q_INVOKABLE QVariantMap testData(const QString &text, const int id);
+    Q_INVOKABLE QVariantMap initData();
 
 signals:
     void operationCompleted(bool success);

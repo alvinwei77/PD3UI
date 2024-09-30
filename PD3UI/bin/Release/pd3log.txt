@@ -1939,3 +1939,21 @@ qrc:/qml/PD3UI/PD3_Greeting.qml:33 Invalid property assignment: color expected
 2024-09-18 03:30:41.021 DEBUG: qml: loaded Home page size: 1055, 671
 2024-09-18 03:30:42.960 DEBUG: qml: clicked
 2024-09-18 03:30:43.410 DEBUG: qml: clicked
+2024-09-30 13:32:08.281 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-30 13:32:08.283 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-09-30 13:32:08.283 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-30 13:32:08.283 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-30 13:32:13.025 DEBUG: qml: loaded Home page size: 1133, 650
+2024-09-30 13:32:23.248 DEBUG: qml: loaded Order page size: 1055, 671
+2024-09-30 13:32:29.610 DEBUG: qml: loaded Home page size: 1055, 671
+2024-09-30 13:32:30.626 DEBUG: qml: 56.60480000000001 570
+2024-09-30 13:32:32.982 WARNING: default: qrc:/qml/components/TableOpenSheet.qml:157: ReferenceError: confirm_btn_status is not defined
+2024-09-30 13:32:35.546 WARNING: default: qrc:/qml/components/TableOpenSheet.qml:157: ReferenceError: confirm_btn_status is not defined
+2024-09-30 13:32:38.576 DEBUG: qml: clicked
+2024-09-30 13:32:40.142 DEBUG: qml: select 0
+2024-09-30 13:32:40.724 DEBUG: qml: select 1
+2024-09-30 13:32:41.661 DEBUG: qml: select 2
+2024-09-30 13:32:42.106 DEBUG: qml: select 3
+2024-09-30 13:32:43.256 DEBUG: qml: select 4
+2024-09-30 13:32:57.133 DEBUG: qml: loaded Home page size: 1055, 671
+2024-09-30 13:32:57.783 DEBUG: qml: loaded Order page size: 1055, 671

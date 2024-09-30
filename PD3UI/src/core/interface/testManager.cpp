@@ -43,3 +43,14 @@ QVariantMap TestManager::testData(const QString &text, const int id) {
     });
     return toVariantMap(res);
 }
+
+QVariantMap TestManager::initData() {
+    QueryResult res = taskExecutor->execute([=](QSqlDatabase &db) -> QueryResult {
+        QString queryStr = globalSqls::INIT_DB();
+        QueryResult res= pgpool::instance()->executeQuery(queryStr, db);
+        return res;
+    });
+    return toVariantMap(res);
+}
+
+

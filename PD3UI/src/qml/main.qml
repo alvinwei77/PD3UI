@@ -4,6 +4,7 @@ import FluentUI 1.0
 import "./global"
 import "./PD3UI"
 
+
 FluWindow {
     id: window
     title: "PD3Tech"
@@ -18,7 +19,7 @@ FluWindow {
     property bool compacted: true
     property bool pageLoaded: false
 
-    Component.onCompleted: {}
+    Component.onCompleted: { }
     Component.onDestruction: { FluRouter.exit() }
 
     Column {
@@ -91,6 +92,7 @@ FluWindow {
                 showError("DataBase connecting error")
             }
         }
+
     }
 
 }
