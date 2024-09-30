@@ -1,0 +1,34 @@
+2024-09-29 22:02:02.253 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-09-29 22:02:02.253 WARNING: default: QSqlDatabase: available drivers: QSQLITE QODBC QPSQL QMIMER
+2024-09-29 22:02:02.253 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-09-29 22:02:02.253 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-09-29 22:02:03.219 DEBUG: qml: loaded Home page size: 1216, 748
+2024-09-29 22:02:09.794 DEBUG: qml: select 0
+2024-09-29 22:02:10.237 DEBUG: qml: select 2
+2024-09-29 22:02:10.819 DEBUG: qml: select 3
+2024-09-29 22:02:11.794 DEBUG: qml: loaded Order page size: 1578, 960
+2024-09-29 22:02:16.295 DEBUG: qml: select 0
+2024-09-29 22:02:17.161 DEBUG: qml: select 1
+2024-09-29 22:02:17.769 DEBUG: qml: select 2
+2024-09-29 22:02:18.252 DEBUG: qml: select 3
+2024-09-29 22:02:18.926 DEBUG: qml: select 4
+2024-09-29 22:02:27.869 DEBUG: qml: select 0
+2024-09-29 22:02:28.245 DEBUG: qml: select 1
+2024-09-29 22:02:28.935 DEBUG: qml: select 2
+2024-09-29 22:02:29.684 DEBUG: qml: select 3
+2024-09-29 22:02:30.253 DEBUG: qml: select 4
+2024-09-29 22:02:44.664 DEBUG: qml: loaded Home page size: 1578, 960
+2024-09-29 22:02:45.771 DEBUG: qml: 0.8191999999999999 859
+2024-09-29 22:02:57.809 DEBUG: qml: select 0
+2024-09-29 22:02:58.244 DEBUG: qml: 0.9248000000000001 859
+2024-09-29 23:45:15.766 DEBUG: qml: 0.9248000000000001 859
+2024-09-29 23:45:47.817 DEBUG: qml: loaded Order page size: 1578, 960
+2024-09-29 23:45:55.472 DEBUG: qml: select 0
+2024-09-29 23:45:55.846 DEBUG: qml: select 1
+2024-09-29 23:46:17.418 DEBUG: qml: loaded Home page size: 1578, 960
+2024-09-29 23:47:21.780 DEBUG: qml: 0.2592 859
+2024-09-29 23:47:58.238 DEBUG: qml: select 0
+2024-09-29 23:47:58.748 DEBUG: qml: select 2
+2024-09-29 23:47:59.313 DEBUG: qml: select 1
+2024-09-30 00:11:26.043 DEBUG: qml: 0.20479999999999998 859
+2024-09-30 00:12:14.493 DEBUG: qml: 0.9248000000000001 859

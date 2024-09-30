@@ -1,0 +1,9 @@
+-rootPath
+/Users/mac/Desktop/p3ui/PD3UI/PD3UI/src
+-cmake-output
+-output-file
+/Users/mac/Desktop/p3ui/PD3UI/build-PD3UI-Qt_6_6_2_for_macOS-Release/src/.qt_plugins/Qt6_QmlPlugins_Imports_PD3UI.cmake
+-importPath
+/Users/mac/Desktop/p3ui/PD3UI/build-PD3UI-Qt_6_6_2_for_macOS-Release/src
+-importPath
+/Users/mac/Qt/6.6.2/macos/./qml

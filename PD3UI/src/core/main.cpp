@@ -3,7 +3,8 @@
 #include <QTranslator>
 #include <QQmlContext>
 #include "ServiceLocator.h"
-#include "/interface/testManager.h"
+// #include "/interface/testManager.h"
+#include "./interface/areaManager.h"
 
 int main(int argc, char *argv[])
 {
@@ -11,7 +12,7 @@ int main(int argc, char *argv[])
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
 #endif
     QGuiApplication app(argc, argv);
-    TestManager testmanager;
+    // TestManager testmanager;
     ServiceLocator::initializeApplication();
     Logger* logger = ServiceLocator::logger();
 
@@ -38,7 +39,9 @@ int main(int argc, char *argv[])
     QQmlApplicationEngine engine;
     // 将服务实例传递给 QML
     engine.rootContext()->setContextProperty("dbService", ServiceLocator::dbPool());
-    engine.rootContext()->setContextProperty("testM", &testmanager);
+    // engine.rootContext()->setContextProperty("testM", &testmanager);
+    AreaManager areaManager;
+    engine.rootContext()->setContextProperty("areaManager", &areaManager);
 
 
     const QUrl url(QStringLiteral("qrc:/App.qml"));

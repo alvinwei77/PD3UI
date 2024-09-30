@@ -132,4 +132,19 @@ Item {
             table_list.append({"tid": value, "tspace": 4, "tspacetaken": 3})
         }
     }
+
+    Connections {
+        target: SignalManager
+        function onTablep_area_focus(id){
+            table_list.clear(); //清空
+            var res = areaManager.fetchAreaByID(id)
+            if (res.success){
+                for (var value of res.records) {
+                    table_list.append({"tid": value.id, "tspace": value.max_customers, "tspacetaken": value.current_customers})
+                }
+            } else {
+                showError(res.error);
+            }
+        }
+    }
 }

@@ -2,6 +2,7 @@ import QtQuick 2.15
 import QtQuick.Controls
 import QtQuick.Layouts
 import FluentUI
+import "../global"
 
 Item {
     id: root
@@ -46,6 +47,7 @@ Item {
             onClicked: {
                 console.log("select", area_lv.currentIndex)
                 area_lv.currentIndex = index
+                SignalManager.tablep_area_focus_(area_lv.id) //调用发送器发送信号
             }
         }
         Component.onCompleted: {
@@ -54,9 +56,15 @@ Item {
 
     Component.onCompleted: {
         // reqeust area list
-        var arr = ["一楼大厅", "二楼包厢", "3楼包厢", "一楼大厅", "二楼包厢", "3楼包厢", "一楼大厅", "二楼包厢", "3楼包厢", "一楼大厅", "二楼包厢", "3楼包厢"];
-        for (var value of arr) {
-            area_list.append({"text": value})
+        // var arr = ["一楼大厅", "二楼包厢", "3楼包厢", "一楼大厅", "二楼包厢", "3楼包厢", "一楼大厅", "二楼包厢", "3楼包厢", "一楼大厅", "二楼包厢", "3楼包厢"];
+
+        var res = areaManager.fetchArea()
+        if (res.success){
+            for (var value of res.records) {
+                area_list.append({"text": value.text, id: value.id})
+            }
+        } else {
+            showError(res.error);
         }
     }
 }

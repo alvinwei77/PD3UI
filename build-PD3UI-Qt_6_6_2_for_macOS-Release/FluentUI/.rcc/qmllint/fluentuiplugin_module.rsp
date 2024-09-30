@@ -1,0 +1,10 @@
+-I
+/Users/mac/Qt/6.6.2/macos/qml
+-I
+/Users/mac/Qt/6.6.2/macos/./qml
+--resource
+/Users/mac/Desktop/p3ui/PD3UI/build-PD3UI-Qt_6_6_2_for_macOS-Release/FluentUI/.rcc/qmake_FluentUI.qrc
+--resource
+/Users/mac/Desktop/p3ui/PD3UI/build-PD3UI-Qt_6_6_2_for_macOS-Release/FluentUI/.rcc/fluentuiplugin_raw_qml_0.qrc
+--module
+FluentUI

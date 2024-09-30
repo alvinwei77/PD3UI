@@ -6,6 +6,11 @@ import FluentUI
 FluObject {
     id: signalManager
 
+    signal tablep_area_focus(int id)
+    function tablep_area_focus_(id){
+        tablep_area_focus(id)
+    }
+
     signal tablep_switch()
     function tablep_switch_(){
         tablep_switch()

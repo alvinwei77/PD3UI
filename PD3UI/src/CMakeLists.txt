@@ -52,6 +52,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         core/utils/FileTool.h core/utils/FileTool.cpp
         core/interface/testManager.cpp core/interface/testManager.h
         core/common/GlobalSqls.h
+        core/interface/areaManager.h core/interface/areaManager.cpp
     )
 else()
     add_executable(${PROJECT_NAME}

@@ -1,0 +1,43 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"FluentUI/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 238,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/imports",
+			"paths" : 
+			[
+				"/Users/mac/Qt/6.6.2/macos//qml/FluentUI"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "FluentUI",
+		"source" : "FluentUI"
+	}
+}

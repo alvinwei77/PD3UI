@@ -1,0 +1,48 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 86,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : ".",
+			"paths" : 
+			[
+				{
+					"from" : "/Users/mac/Desktop/p3ui/PD3UI/PD3UI/bin/Release/PD3UI.app",
+					"to" : "PD3UI.app/Contents/MacOS/PD3UI"
+				}
+			],
+			"targetId" : "PD3UI::@145eef247bfb46b6828c",
+			"targetIndex" : 0,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src",
+		"source" : "src"
+	}
+}

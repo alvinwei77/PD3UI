@@ -4,7 +4,7 @@
 #include <QString>
 #include <QVariantList>
 #include <QList>
-#include <functional>
+// #include <functional>
 
 // 用于保存query结果的接口
 struct QueryResult {

@@ -136,6 +136,14 @@ inline QString INIT_DB(){
 }
 
 
+inline QString SELECT_AREA() {
+    return QString("SELECT * from Area");
+}
+
+inline QString SELECT_AREA_BYID(int id) {
+    return QString("SELECT * from Area where id = %1").arg(id);
+}
+
 inline QString SELECT_TEST() {
     return QString("SELECT * from Test");
 }
