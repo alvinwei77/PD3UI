@@ -4,9 +4,11 @@ import QtQuick.Layouts
 import FluentUI
 import "../global"
 
+
 Item {
     id: root
     anchors.fill: parent
+
 
     Rectangle {
         anchors.fill: parent
@@ -59,7 +61,7 @@ Item {
                     width: gridview.cellWidth - 20
                     height: gridview.cellWidth - 20
                     radius: 25
-                    color: "green"
+                    color: index === 0 ? "orange" : "green"
                     border.color: "gray"
                     border.width: 1
                     Text {
@@ -89,9 +91,14 @@ Item {
                     MouseArea {
                         anchors.fill: parent
                         onClicked: {
-                            SignalManager.tablep_open_()
+                            if (index === 0) {
+                                SignalManager.checkoutp_show(index);
+                            } else {
+                                SignalManager.tablep_open_();
+                            }
                         }
                     }
+
                 }
             }
         }

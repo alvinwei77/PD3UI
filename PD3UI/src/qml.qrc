@@ -40,5 +40,6 @@
         <file>qml/components/DishGrid.qml</file>
         <file>qml/components/DishOrder.qml</file>
         <file>qml/components/DishTop.qml</file>
+        <file>qml/components/OrderCheckout.qml</file>
     </qresource>
 </RCC>

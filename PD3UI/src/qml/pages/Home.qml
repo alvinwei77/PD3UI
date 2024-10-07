@@ -70,6 +70,8 @@ PD3_Page {
     }
 
 
+
+
     Connections {
         target: SignalManager
         function onTablep_switch(){
@@ -89,6 +91,11 @@ PD3_Page {
                 tableOpres.source = GlobalModel.home_table_open_source
             }
             tableOpres.Layout.preferredWidth = tableOpres.Layout.preferredWidth === 0 ? 400 : 0
+        }
+        function onCheckoutp_show(id){
+            tableOpres.source = GlobalModel.order_checkout_source
+            tableOpres.tableId = id
+            tableOpres.Layout.preferredWidth = 800
         }
     }
 }

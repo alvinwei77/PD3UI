@@ -1957,3 +1957,512 @@ qrc:/qml/PD3UI/PD3_Greeting.qml:33 Invalid property assignment: color expected
 2024-09-30 13:32:43.256 DEBUG: qml: select 4
 2024-09-30 13:32:57.133 DEBUG: qml: loaded Home page size: 1055, 671
 2024-09-30 13:32:57.783 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 02:38:13.185 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 02:38:13.189 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 02:38:13.190 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 02:38:13.190 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-01 02:38:17.806 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-01 02:38:18.378 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 02:38:18.378 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 02:38:18.378 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 02:39:47.671 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 02:39:48.715 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 02:39:48.729 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 02:39:48.729 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 02:39:48.729 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 02:39:49.731 DEBUG: qml: 13.939200000000001 570
+2024-10-01 02:39:51.012 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 02:39:51.529 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 02:39:51.541 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 02:39:51.541 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 02:39:51.541 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 02:39:53.841 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 02:39:54.309 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 02:39:54.323 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 02:39:54.323 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 02:39:54.323 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 02:39:57.607 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 02:39:58.072 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 02:39:58.084 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 02:39:58.084 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 02:39:58.084 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 14:34:28.467 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 14:34:29.009 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 14:34:29.020 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 14:34:29.021 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 14:34:29.023 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 14:35:01.335 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 14:35:01.337 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 14:35:01.337 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 14:35:01.337 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-01 14:35:05.400 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-01 14:35:05.980 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 14:35:05.980 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 14:35:05.980 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 14:35:15.694 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 14:35:16.429 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 14:35:16.438 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 14:35:16.439 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 14:35:16.439 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 14:38:23.250 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 14:38:25.466 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 14:38:25.478 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 14:38:25.479 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 14:38:25.479 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 14:38:29.545 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 14:38:30.199 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 14:38:30.208 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 14:38:30.208 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 14:38:30.208 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 14:38:32.230 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 14:38:32.945 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 14:38:32.955 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 14:38:32.955 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 14:38:32.955 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 14:38:35.589 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 14:39:04.279 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 14:39:04.292 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 14:39:04.292 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 14:39:04.292 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-01 14:39:07.124 DEBUG: qml: 32.00000000000001 570
+2024-10-01 14:39:08.261 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-01 14:39:09.061 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-01 14:39:09.071 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-01 14:39:09.071 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-01 14:39:09.071 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:40:32.190 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 13:40:32.191 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 13:40:32.191 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:40:32.191 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:40:37.107 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 13:40:37.689 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 13:40:37.689 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 13:40:37.689 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:41:11.006 DEBUG: qml: 72 570
+2024-10-03 13:41:13.475 WARNING: default: qrc:/qml/components/TableOpenSheet.qml:157: ReferenceError: confirm_btn_status is not defined
+2024-10-03 13:41:21.226 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-03 13:41:31.316 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-03 13:41:31.330 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 13:41:31.331 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 13:41:31.331 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:42:07.799 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-03 13:42:16.592 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-03 13:42:16.606 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 13:42:16.606 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 13:42:16.606 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:42:25.083 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-03 13:42:29.830 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-03 13:42:29.841 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 13:42:29.842 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 13:42:29.842 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:45:41.786 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-03 13:45:42.598 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-03 13:45:42.612 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 13:45:42.612 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 13:45:42.612 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:45:43.264 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-03 13:45:56.684 DEBUG: qml: loaded Home page size: 1135, 671
+2024-10-03 13:45:56.697 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 13:45:56.697 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 13:45:56.697 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:45:59.765 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-03 13:49:08.588 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-03 13:49:08.601 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 13:49:08.601 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 13:49:08.601 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:53:17.897 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 13:53:17.898 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 13:53:17.898 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:53:17.898 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:53:19.070 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 13:53:20.033 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 13:53:20.033 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 13:53:20.033 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 13:54:01.142 DEBUG: qml: 43.059200000000004 570
+2024-10-03 14:02:14.137 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:02:14.138 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:02:14.139 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:02:14.139 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:02:15.620 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:02:16.725 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:02:16.725 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:02:16.725 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:02:16.841 WARNING: default: qrc:/qml/components/FullScreenPage.qml: No such file or directory
+2024-10-03 14:03:13.652 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:03:13.652 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:03:13.652 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:03:13.652 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:03:14.781 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:03:15.752 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:03:15.752 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:03:15.752 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:03:15.846 WARNING: default: qrc:/qml/components/Dishes.qml: No such file or directory
+2024-10-03 14:03:52.325 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:03:52.326 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:03:52.326 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:03:52.326 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:03:53.413 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:03:54.268 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:03:54.268 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:03:54.268 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:03:54.368 WARNING: default: qrc:/qml/components/pages/Dishes.qml: No such file or directory
+2024-10-03 14:04:56.910 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:04:56.910 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:04:56.910 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:04:56.910 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:04:57.953 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:04:58.830 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:04:58.830 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:04:58.830 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:05:03.764 DEBUG: qml: clicked
+2024-10-03 14:05:06.636 DEBUG: qml: 43.80480000000001 570
+2024-10-03 14:07:29.386 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:07:29.387 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:07:29.387 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:07:29.387 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:07:30.640 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:07:31.820 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:07:31.820 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:07:31.820 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:10:36.108 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:10:36.109 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:10:36.109 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:10:36.109 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:10:37.327 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:10:37.336 WARNING: default: qrc:/qml/components/TableGrid.qml:6:1: "../pages/Dishes.qml": no such directory
+2024-10-03 14:10:37.816 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:10:37.817 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:10:37.817 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:10:45.392 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-03 14:10:46.107 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-03 14:10:46.113 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:10:46.113 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:10:46.113 WARNING: default: qrc:/qml/components/TableGrid.qml:6:1: "../pages/Dishes.qml": no such directory
+TE QMIMER QODBC QPSQL
+2024-10-03 14:10:46.113 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:11:29.823 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:11:29.824 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:11:29.824 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:11:29.824 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:11:31.053 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:11:31.062 WARNING: default: qrc:/qml/components/TableGrid.qml:6:1: "../pages/Dishes.qml": no such directory
+2024-10-03 14:11:31.491 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:11:31.491 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:11:31.491 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:11:38.123 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-03 14:11:38.736 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-03 14:11:38.748 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:11:38.748 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:11:38.748 WARNING: default: qrc:/qml/components/TableGrid.qml:6:1: "../pages/Dishes.qml": no such directory
+TE QMIMER QODBC QPSQL
+2024-10-03 14:11:38.748 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:12:34.346 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:12:34.347 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:12:34.347 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:12:34.347 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:12:35.533 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:12:36.510 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:12:36.510 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:12:36.510 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:12:36.604 WARNING: default: qrc:/qml/components/Dishes.qml: No such file or directory
+2024-10-03 14:13:16.139 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:13:16.140 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:13:16.140 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:13:16.140 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:13:17.243 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:13:17.252 WARNING: default: qrc:/qml/components/TableGrid.qml:6:1: "../pages/Dishes.qml": no such directory
+2024-10-03 14:13:17.594 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:13:17.594 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:13:17.594 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:15:17.867 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:15:17.868 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:15:17.868 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:15:17.868 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:15:19.088 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:15:19.506 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:15:19.506 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:15:19.506 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:15:19.662 WARNING: default: qrc:/qml/pages/Dishes.qml:19:20: Invalid property assignment: color expected
+2024-10-03 14:17:48.289 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:17:48.290 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:17:48.290 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:17:48.290 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:17:49.926 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:17:50.676 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:17:50.676 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:17:50.676 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:19:39.104 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:19:39.104 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:19:39.104 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:19:39.105 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-03 14:19:40.272 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-03 14:19:40.702 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-03 14:19:40.702 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-03 14:19:40.702 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:39:27.100 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-04 00:39:27.101 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-04 00:39:27.101 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:39:27.101 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:39:31.308 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-04 00:39:31.876 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-04 00:39:31.876 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-04 00:39:31.876 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:39:37.253 WARNING: default: qrc:/qml/pages/Home.qml:102: TypeError: Property 'setProperty' of object Dishes_QMLTYPE_126(0x17fee410b50) is not a function
+2024-10-04 00:39:53.852 WARNING: default: qrc:/qml/pages/Home.qml:102: TypeError: Property 'setProperty' of object Dishes_QMLTYPE_126(0x17fee410b50) is not a function
+2024-10-04 00:39:54.069 WARNING: default: qrc:/qml/pages/Home.qml:102: TypeError: Property 'setProperty' of object Dishes_QMLTYPE_126(0x17fee410b50) is not a function
+2024-10-04 00:39:54.251 WARNING: default: qrc:/qml/pages/Home.qml:102: TypeError: Type error
+2024-10-04 00:39:56.217 WARNING: default: qrc:/qml/pages/Home.qml:102: TypeError: Type error
+2024-10-04 00:41:04.072 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-04 00:41:04.073 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-04 00:41:04.073 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:41:04.073 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:41:05.256 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-04 00:41:05.671 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-04 00:41:05.671 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-04 00:41:05.671 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:41:14.229 DEBUG: qml: 0 570
+2024-10-04 00:42:21.771 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-04 00:42:21.772 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-04 00:42:21.772 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:42:21.772 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:42:22.756 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-04 00:42:23.710 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-04 00:42:23.711 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-04 00:42:23.711 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:42:37.774 DEBUG: qml: 13.939200000000001 570
+2024-10-04 00:43:24.295 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-04 00:43:24.296 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-04 00:43:24.296 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:43:24.296 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:43:25.451 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-04 00:43:25.793 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-04 00:43:25.793 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-04 00:43:25.793 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:43:39.095 DEBUG: qml: 22.044800000000002 570
+2024-10-04 00:44:58.140 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-04 00:45:09.884 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-04 00:45:09.893 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-04 00:45:09.894 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-04 00:45:09.894 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-04 00:45:18.473 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-07 14:50:11.868 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:50:11.870 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:50:11.870 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:50:11.870 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:50:16.132 WARNING: default: qrc:/qml/pages/Dishes.qml: No such file or directory
+2024-10-07 14:50:16.138 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-07 14:50:16.710 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:50:16.711 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:50:16.711 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:50:19.991 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:50:20.039 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:50:20.039 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:50:20.039 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:50:22.054 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:50:22.071 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:50:22.071 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:50:22.071 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:50:24.684 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:50:26.068 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:50:26.665 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:50:27.686 DEBUG: qml: 72 570
+2024-10-07 14:50:28.800 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:50:28.814 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:50:28.814 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:50:28.814 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:52:13.163 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:52:13.164 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:52:13.164 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:52:13.164 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:52:14.268 WARNING: default: qrc:/qml/pages/Dishes.qml: No such file or directory
+2024-10-07 14:52:14.277 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-07 14:52:14.651 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:52:14.651 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:52:14.651 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:52:26.371 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:52:26.424 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:52:26.425 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:52:26.425 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:52:30.615 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:52:31.481 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:52:33.222 DEBUG: qml: 22.044800000000002 570
+2024-10-07 14:52:34.197 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:52:34.214 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:52:34.214 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:52:34.215 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:52:41.139 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:52:41.722 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:52:42.259 DEBUG: qml: 0.9248000000000001 570
+2024-10-07 14:52:43.171 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:52:43.188 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:52:43.188 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:52:43.188 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:38.933 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:54:38.933 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:54:38.933 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:38.933 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:40.141 WARNING: default: qrc:/qml/pages/Dishes.qml: No such file or directory
+2024-10-07 14:54:40.151 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-07 14:54:40.646 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:54:40.647 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:54:40.647 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:45.773 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:54:45.825 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:54:45.825 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:54:45.825 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:47.758 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:54:48.542 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:54:49.444 DEBUG: qml: 32.00000000000001 570
+2024-10-07 14:54:50.752 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:54:50.768 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:54:50.768 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:54:50.768 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:53.166 DEBUG: qml: select 0
+2024-10-07 14:54:53.171 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:54:53.171 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:54:53.171 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:54.314 DEBUG: qml: select 0
+2024-10-07 14:54:54.314 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:54:54.314 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:54:54.314 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:54.766 DEBUG: qml: select 1
+2024-10-07 14:54:54.766 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:54:54.766 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:54:54.766 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:55.433 DEBUG: qml: select 3
+2024-10-07 14:54:55.433 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:54:55.434 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:54:55.434 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:56.514 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-07 14:54:57.250 WARNING: default: qrc:/qml/pages/Dishes.qml: No such file or directory
+2024-10-07 14:54:57.256 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-07 14:54:57.264 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:54:57.265 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:54:57.265 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:58.030 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:54:58.044 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:54:58.044 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:54:58.044 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:54:58.726 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:54:59.163 DEBUG: qml: 0.9248000000000001 570
+2024-10-07 14:55:00.028 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:00.043 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:55:00.043 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:55:00.043 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:55:11.699 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:12.397 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:12.631 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:12.802 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:13.034 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:13.630 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:13.813 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:14.014 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:14.215 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:14.413 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:16.466 DEBUG: qml: 3.4848000000000003 570
+2024-10-07 14:55:17.576 WARNING: default: qrc:/qml/pages/Home.qml:105: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:55:17.593 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:55:17.593 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:55:17.593 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:56:36.041 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:56:36.042 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:56:36.042 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:56:36.042 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:56:37.238 WARNING: default: qrc:/qml/pages/Dishes.qml: No such file or directory
+2024-10-07 14:56:37.246 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-07 14:56:37.759 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:56:37.759 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:56:37.759 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:56:41.332 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:56:41.381 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:56:41.381 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:56:41.382 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:57:31.737 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:57:31.738 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:57:31.738 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:57:31.738 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:57:32.851 WARNING: default: qrc:/qml/pages/Dishes.qml: No such file or directory
+2024-10-07 14:57:32.865 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-07 14:57:33.280 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:57:33.280 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:57:33.280 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:57:36.314 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:38.860 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:39.925 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:41.416 DEBUG: qml: 14.364800000000002 570
+2024-10-07 14:57:43.356 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:44.038 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:44.287 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:44.504 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:44.855 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:45.053 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:45.253 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:45.754 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:45.939 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:46.122 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:48.087 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:48.667 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:48.834 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:49.017 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:49.183 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:49.399 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:49.815 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:50.172 DEBUG: qml: 8.000000000000002 570
+2024-10-07 14:57:52.482 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:57:52.682 WARNING: default: qrc:/qml/pages/Home.qml:104: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:06.574 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:59:06.575 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:59:06.575 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:59:06.575 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:59:07.746 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-07 14:59:08.437 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:59:08.437 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:59:08.437 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:59:12.024 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:14.022 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:14.938 DEBUG: qml: 32.00000000000001 570
+2024-10-07 14:59:16.905 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:17.600 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:17.801 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:18.003 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:18.517 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:18.716 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:18.899 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:20.716 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:21.131 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:21.315 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:23.835 DEBUG: qml: 3.4848000000000003 570
+2024-10-07 14:59:46.781 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:59:46.782 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:59:46.782 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:59:46.782 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:59:47.938 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-07 14:59:48.428 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 14:59:48.428 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 14:59:48.428 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 14:59:51.603 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:56.502 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:57.097 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:57.717 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:58.363 WARNING: default: qrc:/qml/pages/Home.qml:98: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 14:59:59.164 DEBUG: qml: 22.044800000000002 570
+2024-10-07 15:00:20.694 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 15:00:20.695 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 15:00:20.695 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 15:00:20.695 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-07 15:00:21.786 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-07 15:00:22.251 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-07 15:00:22.251 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-07 15:00:22.251 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-07 15:00:26.221 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 15:00:27.668 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 15:00:29.116 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 15:00:29.916 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 15:00:30.385 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 15:00:30.818 DEBUG: qml: 13.939200000000001 570
+2024-10-07 15:00:32.364 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 15:00:32.549 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 15:00:32.731 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 15:00:32.930 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 15:00:33.664 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-07 15:00:33.878 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"

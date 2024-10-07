@@ -16,6 +16,11 @@ FluObject {
         tablep_switch()
     }
 
+    signal checkoutp_show(int id)
+    function checkoutp_show_(id){
+        checkoutp_show(id)
+    }
+
     signal tablep_open()
     function tablep_open_(){
         tablep_open()

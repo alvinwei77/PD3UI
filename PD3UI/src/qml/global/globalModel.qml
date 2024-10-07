@@ -44,4 +44,7 @@ QtObject{
     property string dish_grid_source: "qrc:/qml/components/DishGrid.qml"
     property string dish_order_source: "qrc:/qml/components/DishOrder.qml"
 
+    property string order_checkout_source:"qrc:/qml/components/OrderCheckout.qml"
+    property string order_payment_source:"qrc:/qml/components/OrderPayment.qml"
+
 }
