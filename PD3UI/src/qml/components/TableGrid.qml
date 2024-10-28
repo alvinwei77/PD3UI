@@ -92,7 +92,7 @@ Item {
                         anchors.fill: parent
                         onClicked: {
                             if (index === 0) {
-                                SignalManager.checkoutp_show(index);
+                                SignalManager.checkoutp_show_(index);
                             } else {
                                 SignalManager.tablep_open_();
                             }

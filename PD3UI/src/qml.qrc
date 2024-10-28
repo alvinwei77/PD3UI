@@ -41,5 +41,6 @@
         <file>qml/components/DishOrder.qml</file>
         <file>qml/components/DishTop.qml</file>
         <file>qml/components/OrderCheckout.qml</file>
+        <file>qml/components/mockData.js</file>
     </qresource>
 </RCC>

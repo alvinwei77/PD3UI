@@ -2466,3 +2466,630 @@ TE QMIMER QODBC QPSQL
 2024-10-07 15:00:32.930 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
 2024-10-07 15:00:33.664 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
 2024-10-07 15:00:33.878 WARNING: default: qrc:/qml/pages/Home.qml:97: Error: Cannot assign to non-existent property "tableId"
+2024-10-08 13:35:29.826 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:35:29.828 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:35:29.828 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:35:29.828 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:35:34.443 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-08 13:35:35.099 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:35:35.099 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:35:35.100 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:36:04.565 DEBUG: qml: 43.059200000000004 570
+2024-10-08 13:39:23.292 DEBUG: qml: select 0
+2024-10-08 13:39:23.296 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:39:23.297 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:39:23.297 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:39:24.307 DEBUG: qml: select 3
+2024-10-08 13:39:24.308 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:39:24.308 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:39:24.308 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:39:25.209 DEBUG: qml: select 3
+2024-10-08 13:39:25.209 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:39:25.209 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:39:25.209 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:39:25.890 DEBUG: qml: select 2
+2024-10-08 13:39:25.891 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:39:25.891 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:39:25.891 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:39:26.572 DEBUG: qml: select 1
+2024-10-08 13:39:26.572 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:39:26.573 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:39:26.573 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:39:27.321 DEBUG: qml: select 3
+2024-10-08 13:39:27.322 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:39:27.322 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:39:27.322 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:39:27.953 DEBUG: qml: select 2
+2024-10-08 13:39:27.954 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:39:27.954 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:39:27.954 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:57:12.151 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:57:12.152 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:57:12.152 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:57:12.152 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:57:13.278 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-08 13:57:13.771 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:57:13.771 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:57:13.771 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:57:30.396 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-08 13:57:52.192 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-08 13:57:52.206 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:57:52.206 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:57:52.206 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:57:55.887 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-08 13:57:58.069 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-08 13:57:58.081 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:57:58.081 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:57:58.081 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:57:59.009 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-08 13:57:59.103 WARNING: default: qrc:/qml/components/DishOrder.qml:54:5: QML ColumnLayout: Layout polish loop detected for QQuickColumnLayout(0x1f89d1c5af0, id="layout", parent=0x1f89d91e1a0, geometry=0,0 420x570). Aborting after two iterations.
+2024-10-08 13:57:59.736 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-08 13:57:59.746 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:57:59.746 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:57:59.746 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 13:58:03.298 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-08 13:58:08.293 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-08 13:58:08.305 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 13:58:08.306 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 13:58:08.306 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:12:44.441 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 14:12:44.442 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 14:12:44.442 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:12:44.442 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:12:46.093 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-08 14:12:46.662 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 14:12:46.662 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 14:12:46.662 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:22:46.087 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 14:22:46.088 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 14:22:46.088 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:22:46.088 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:22:47.249 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-08 14:22:47.737 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 14:22:47.737 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 14:22:47.737 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:22:57.803 DEBUG: qml: 加菜按钮被点击
+2024-10-08 14:22:58.886 DEBUG: qml: 埋单按钮被点击
+2024-10-08 14:23:06.390 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-08 14:23:09.401 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-08 14:23:09.413 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 14:23:09.413 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 14:23:09.413 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:23:10.200 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-08 14:23:11.484 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-08 14:23:11.492 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 14:23:11.493 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 14:23:11.493 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:26:45.589 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 14:26:45.590 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 14:26:45.590 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:26:45.590 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-08 14:26:46.751 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-08 14:26:47.215 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-08 14:26:47.215 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-08 14:26:47.215 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 05:57:21.408 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 05:57:21.409 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 05:57:21.409 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 05:57:21.409 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 05:57:25.537 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 05:57:26.072 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 05:57:26.072 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 05:57:26.072 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 05:57:31.047 DEBUG: qml: 用餐方式选择为：
+2024-10-11 05:57:31.099 WARNING: default: qrc:/qml/components/OrderCheckout.qml:54: ReferenceError: defaultDiningOption is not defined
+2024-10-11 05:57:34.150 DEBUG: qml: 用餐方式选择为：堂食
+2024-10-11 05:57:36.098 DEBUG: qml: 桌号选择为：
+2024-10-11 05:59:20.350 DEBUG: qml: 桌号选择为：A14
+2024-10-11 05:59:22.821 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-11 05:59:23.356 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-11 05:59:23.369 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 05:59:23.369 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 05:59:23.369 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 05:59:26.780 DEBUG: qml: 用餐方式选择为：
+2024-10-11 05:59:26.816 WARNING: default: qrc:/qml/components/OrderCheckout.qml:54: ReferenceError: defaultDiningOption is not defined
+2024-10-11 06:03:11.625 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:03:11.626 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:03:11.626 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:03:11.626 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:03:12.733 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:03:13.173 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:03:13.174 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:03:13.174 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:03:27.269 WARNING: default: qrc:/qml/components/OrderCheckout.qml:63:33: Cannot assign value of type "Rectangle" to property "down", expecting "bool"
+2024-10-11 06:04:36.144 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:04:36.146 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:04:36.146 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:04:36.146 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:04:37.321 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:04:37.792 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:04:37.792 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:04:37.792 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:04:40.865 WARNING: default: qrc:/qml/components/OrderCheckout.qml:63:33: Cannot assign value of type "Rectangle" to property "down", expecting "bool"
+2024-10-11 06:04:43.081 WARNING: default: qrc:/qml/components/OrderCheckout.qml:63:33: Cannot assign value of type "Rectangle" to property "down", expecting "bool"
+2024-10-11 06:05:37.377 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:05:37.378 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:05:37.378 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:05:37.378 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:05:38.470 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:05:38.894 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:05:38.894 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:05:38.894 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:05:43.474 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:06:15.101 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:06:15.102 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:06:15.102 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:06:15.102 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:06:16.279 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:06:16.662 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:06:16.662 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:06:16.662 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:06:21.838 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:06:21.839 DEBUG: qml: 桌号选择为：
+2024-10-11 06:06:32.029 DEBUG: qml: 桌号选择为：A1
+2024-10-11 06:06:33.127 DEBUG: qml: 用餐方式选择为：堂食
+2024-10-11 06:12:55.736 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:12:55.737 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:12:55.737 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:12:55.737 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:12:56.879 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:12:57.316 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:12:57.316 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:12:57.316 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:13:03.713 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:13:03.716 DEBUG: qml: 桌号选择为：
+2024-10-11 06:13:06.323 DEBUG: qml: select 0
+2024-10-11 06:13:06.328 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:13:06.328 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:13:06.329 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:13:07.972 DEBUG: qml: select 1
+2024-10-11 06:13:07.973 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:13:07.973 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:13:07.973 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:13:08.805 DEBUG: qml: select 0
+2024-10-11 06:13:08.805 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:13:08.805 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:13:08.805 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:13:09.371 DEBUG: qml: select 2
+2024-10-11 06:13:09.371 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:13:09.371 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:13:09.372 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:13:10.038 DEBUG: qml: select 1
+2024-10-11 06:13:10.038 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:13:10.038 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:13:10.038 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:13:10.772 DEBUG: qml: 新订单添加: 订单5
+2024-10-11 06:13:11.720 DEBUG: qml: 新订单添加: 订单6
+2024-10-11 06:15:10.445 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:15:10.445 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:15:10.445 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:15:10.445 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:15:11.621 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:15:11.990 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:15:11.990 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:15:11.990 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:15:18.104 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:15:18.105 DEBUG: qml: 桌号选择为：
+2024-10-11 06:15:19.966 DEBUG: qml: 选择了订单: 订单2
+2024-10-11 06:15:19.968 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:15:19.969 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:15:19.969 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:15:21.015 DEBUG: qml: 新订单添加: 订单3
+2024-10-11 06:15:22.065 DEBUG: qml: 新订单添加: 订单4
+2024-10-11 06:15:23.162 DEBUG: qml: 选择了订单: 订单1
+2024-10-11 06:15:23.162 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:15:23.162 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:15:23.162 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:15:23.931 DEBUG: qml: 选择了订单: 订单2
+2024-10-11 06:15:23.931 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:15:23.932 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:15:23.932 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:15:24.728 DEBUG: qml: 选择了订单: 订单4
+2024-10-11 06:15:24.728 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:15:24.728 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:15:24.728 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:18:51.491 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:18:51.492 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:18:51.492 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:18:51.492 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:18:52.614 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:18:53.049 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:18:53.049 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:18:53.049 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:18:58.344 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:18:58.345 DEBUG: qml: 桌号选择为：
+2024-10-11 06:19:00.426 DEBUG: qml: 选择了订单: 订单2
+2024-10-11 06:19:00.430 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:19:00.430 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:19:00.430 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:19:01.375 DEBUG: qml: 选择了订单: 订单1
+2024-10-11 06:19:01.375 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:19:01.375 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:19:01.375 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:19:02.057 DEBUG: qml: 新订单添加: 订单3
+2024-10-11 06:19:03.006 DEBUG: qml: 选择了订单: 订单2
+2024-10-11 06:19:03.006 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:19:03.006 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:19:03.006 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:19:03.574 DEBUG: qml: 选择了订单: 订单3
+2024-10-11 06:19:03.574 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:19:03.574 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:19:03.574 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:21:20.674 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:21:20.675 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:21:20.675 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:21:20.675 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:21:21.850 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:21:22.238 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:21:22.238 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:21:22.238 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:21:56.846 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:21:56.846 DEBUG: qml: 桌号选择为：
+2024-10-11 06:21:56.847 WARNING: default: qrc:/qml/components/OrderCheckout.qml:78:13: QML Rectangle: Cannot anchor to an item that isn't a parent or sibling.
+2024-10-11 06:22:03.286 DEBUG: qml: 新订单添加: 订单3
+2024-10-11 06:22:03.738 DEBUG: qml: 新订单添加: 订单4
+2024-10-11 06:24:56.914 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:24:56.915 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:24:56.915 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:24:56.915 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:24:58.097 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:24:58.477 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:24:58.477 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:24:58.477 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:25:06.852 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:25:06.864 DEBUG: qml: 桌号选择为：
+2024-10-11 06:25:10.244 DEBUG: qml: 新订单添加: 订单3
+2024-10-11 06:25:11.060 DEBUG: qml: 新订单添加: 订单4
+2024-10-11 06:31:57.484 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:31:57.485 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:31:57.485 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:31:57.485 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:31:58.685 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:31:59.050 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:31:59.050 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:31:59.050 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:32:10.550 WARNING: default: qrc:/qml/components/OrderCheckout.qml:28:39: ListElement: cannot use script for property value
+2024-10-11 06:35:02.542 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:35:02.542 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:35:02.542 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:35:02.543 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:35:03.701 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:35:04.147 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:35:04.147 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:35:04.147 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:35:07.516 WARNING: default: qrc:/qml/components/OrderCheckout.qml:424:14: Duplicate method name
+2024-10-11 06:35:09.232 WARNING: default: qrc:/qml/components/OrderCheckout.qml:424:14: Duplicate method name
+2024-10-11 06:39:32.392 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:39:32.394 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:39:32.394 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:39:32.394 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:39:33.556 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:39:34.015 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:39:34.016 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:39:34.016 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:39:56.767 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:39:56.779 DEBUG: qml: 桌号选择为：
+2024-10-11 06:39:59.293 DEBUG: qml: 新订单添加: 订单3
+2024-10-11 06:40:01.025 DEBUG: qml: 新订单添加: 订单4
+2024-10-11 06:42:00.318 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:42:00.319 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:42:00.319 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:42:00.319 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:42:01.457 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:42:01.918 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:42:01.919 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:42:01.919 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:42:05.245 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:42:05.257 DEBUG: qml: 桌号选择为：
+2024-10-11 06:42:07.042 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:42:07.042 DEBUG: qml: 桌号选择为：
+2024-10-11 06:42:44.207 DEBUG: qml: 选择了订单: 订单2
+2024-10-11 06:42:44.804 DEBUG: qml: 选择了订单: 订单1
+2024-10-11 06:46:06.971 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:46:06.973 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:46:06.973 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:46:06.973 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:46:08.088 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:46:08.462 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:46:08.463 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:46:08.463 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:46:13.778 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:46:13.791 DEBUG: qml: 桌号选择为：
+2024-10-11 06:51:35.904 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:51:35.905 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:51:35.905 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:51:35.905 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:51:37.070 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:51:37.460 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:51:37.460 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:51:37.460 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:51:42.955 WARNING: default: qrc:/qml/components/OrderCheckout.qml:81:17: ReferenceError: listView is not defined
+2024-10-11 06:51:42.956 WARNING: default: qrc:/qml/components/OrderCheckout.qml:81:17: ReferenceError: listView is not defined
+2024-10-11 06:51:42.956 WARNING: default: qrc:/qml/components/OrderCheckout.qml:81:17: ReferenceError: listView is not defined
+2024-10-11 06:51:42.957 WARNING: default: qrc:/qml/components/OrderCheckout.qml:81:17: ReferenceError: listView is not defined
+2024-10-11 06:51:42.968 WARNING: default: qrc:/qml/components/OrderCheckout.qml:94: ReferenceError: area is not defined
+2024-10-11 06:51:42.968 WARNING: default: qrc:/qml/components/OrderCheckout.qml:102: ReferenceError: area is not defined
+2024-10-11 06:51:42.968 WARNING: default: qrc:/qml/components/OrderCheckout.qml:110: ReferenceError: area is not defined
+2024-10-11 06:51:42.968 WARNING: default: qrc:/qml/components/OrderCheckout.qml:118: ReferenceError: area is not defined
+2024-10-11 06:51:42.968 WARNING: default: qrc:/qml/components/OrderCheckout.qml:126: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:134: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:94: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:102: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:110: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:118: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:126: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:134: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:94: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:102: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:110: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:118: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:126: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:134: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:94: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:102: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:110: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:118: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:126: ReferenceError: area is not defined
+2024-10-11 06:51:42.969 WARNING: default: qrc:/qml/components/OrderCheckout.qml:134: ReferenceError: area is not defined
+2024-10-11 06:54:27.361 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:54:27.362 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:54:27.362 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:54:27.362 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:54:28.521 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:54:28.875 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:54:28.875 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:54:28.875 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:54:34.025 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:54:34.025 DEBUG: qml: 桌号选择为：
+2024-10-11 06:55:03.362 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:55:03.363 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:55:03.363 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:55:03.363 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:55:04.475 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:55:04.809 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:55:04.809 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:55:04.809 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:55:09.242 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:55:09.243 DEBUG: qml: 桌号选择为：
+2024-10-11 06:55:45.015 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:55:45.016 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:55:45.016 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:55:45.016 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:55:46.165 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:55:46.508 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:55:46.508 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:55:46.508 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:55:54.083 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:55:54.084 DEBUG: qml: 桌号选择为：
+2024-10-11 06:58:02.461 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:58:02.461 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:58:02.461 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:58:02.461 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:58:03.735 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:58:04.087 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:58:04.087 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:58:04.087 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:58:10.252 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:58:10.254 DEBUG: qml: 桌号选择为：
+2024-10-11 06:58:10.288 WARNING: default: qrc:/qml/components/OrderCheckout.qml:348:17: QML RowLayout: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2024-10-11 06:58:10.324 WARNING: default: qrc:/qml/components/OrderCheckout.qml:348:17: QML RowLayout: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2024-10-11 06:58:10.324 WARNING: default: qrc:/qml/components/OrderCheckout.qml:348:17: QML RowLayout: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2024-10-11 06:58:59.307 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:58:59.308 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:58:59.308 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:58:59.308 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:59:00.478 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 06:59:00.817 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 06:59:00.817 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 06:59:00.817 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 06:59:05.970 DEBUG: qml: 用餐方式选择为：
+2024-10-11 06:59:05.970 DEBUG: qml: 桌号选择为：
+2024-10-11 06:59:06.020 WARNING: default: qrc:/qml/components/OrderCheckout.qml:348:17: QML RowLayout: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2024-10-11 06:59:06.040 WARNING: default: qrc:/qml/components/OrderCheckout.qml:348:17: QML RowLayout: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2024-10-11 06:59:06.040 WARNING: default: qrc:/qml/components/OrderCheckout.qml:348:17: QML RowLayout: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2024-10-11 07:00:44.315 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 07:00:44.316 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 07:00:44.316 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 07:00:44.316 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 07:00:45.440 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 07:00:45.769 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 07:00:45.769 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 07:00:45.769 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 07:00:56.216 DEBUG: qml: 用餐方式选择为：
+2024-10-11 07:00:56.216 DEBUG: qml: 桌号选择为：
+2024-10-11 07:03:52.431 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 07:03:52.432 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 07:03:52.432 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 07:03:52.432 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 07:03:53.597 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 07:03:53.967 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 07:03:53.967 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 07:03:53.967 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 07:04:08.369 DEBUG: qml: 用餐方式选择为：
+2024-10-11 07:04:08.381 DEBUG: qml: 桌号选择为：
+2024-10-11 07:04:55.737 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 07:04:55.738 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 07:04:55.738 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 07:04:55.738 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-11 07:04:56.896 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-11 07:04:57.244 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-11 07:04:57.244 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-11 07:04:57.244 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-11 07:05:06.365 DEBUG: qml: 用餐方式选择为：
+2024-10-11 07:05:06.368 DEBUG: qml: 桌号选择为：
+2024-10-11 07:05:09.208 DEBUG: qml: 选择了订单: 订单2
+2024-10-11 07:05:09.909 DEBUG: qml: 新订单添加: 订单3
+2024-10-11 07:05:10.973 DEBUG: qml: 新订单添加: 订单4
+2024-10-11 07:05:11.523 DEBUG: qml: 选择了订单: 订单3
+2024-10-11 07:05:13.137 DEBUG: qml: 桌号选择为：A1
+2024-10-11 07:05:15.385 DEBUG: qml: 用餐方式选择为：堂食
+2024-10-21 12:37:46.708 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 12:37:46.709 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 12:37:46.709 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 12:37:46.709 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-21 12:37:50.692 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-21 12:37:51.304 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 12:37:51.305 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 12:37:51.305 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 12:37:54.919 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-21 12:37:55.845 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-21 12:37:55.858 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 12:37:55.858 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 12:37:55.858 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 12:37:57.257 DEBUG: qml: 用餐方式选择为：
+2024-10-21 12:37:57.270 DEBUG: qml: 桌号选择为：
+2024-10-21 12:38:02.848 DEBUG: qml: 新订单添加: 订单3
+2024-10-21 12:38:04.096 DEBUG: qml: 新订单添加: 订单4
+2024-10-21 12:38:04.513 DEBUG: qml: 选择了订单: 订单2
+2024-10-21 12:38:04.963 DEBUG: qml: 选择了订单: 订单3
+2024-10-21 12:38:05.462 DEBUG: qml: 选择了订单: 订单4
+2024-10-21 12:38:11.190 DEBUG: qml: 桌号选择为：A1
+2024-10-21 12:38:12.624 DEBUG: qml: 用餐方式选择为：堂食
+2024-10-21 13:23:34.533 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:23:34.535 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:23:34.535 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:23:34.535 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:23:36.615 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-21 13:23:37.653 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:23:37.653 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:23:37.653 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:23:55.218 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:23:55.218 DEBUG: qml: 桌号选择为：
+2024-10-21 13:23:59.808 DEBUG: qml: 用餐方式选择为：堂食
+2024-10-21 13:24:01.456 DEBUG: qml: 桌号选择为：A1
+2024-10-21 13:30:04.106 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:30:04.107 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:30:04.107 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:30:04.107 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:30:05.273 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-21 13:30:05.774 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:30:05.774 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:30:05.774 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:30:13.790 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:30:13.791 DEBUG: qml: 桌号选择为：
+2024-10-21 13:30:24.466 DEBUG: qml: 72 570
+2024-10-21 13:30:26.279 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:30:26.279 DEBUG: qml: 桌号选择为：
+2024-10-21 13:31:26.385 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:31:26.386 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:31:26.386 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:31:26.386 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:31:27.551 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-21 13:31:27.971 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:31:27.971 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:31:27.971 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:31:40.264 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:31:40.276 DEBUG: qml: 桌号选择为：
+2024-10-21 13:31:48.027 DEBUG: qml: 22.044800000000002 570
+2024-10-21 13:31:49.654 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:31:49.655 DEBUG: qml: 桌号选择为：
+2024-10-21 13:37:43.441 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:37:43.442 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:37:43.442 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:37:43.442 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:37:44.708 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-21 13:37:45.158 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:37:45.158 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:37:45.158 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:38:05.574 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:38:05.574 DEBUG: qml: 桌号选择为：
+2024-10-21 13:38:09.867 DEBUG: qml: 43.80480000000001 570
+2024-10-21 13:38:11.709 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:38:11.709 DEBUG: qml: 桌号选择为：
+2024-10-21 13:38:19.575 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-21 13:38:20.394 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-21 13:38:20.405 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:38:20.405 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:38:20.405 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:38:22.218 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:38:22.218 DEBUG: qml: 桌号选择为：
+2024-10-21 13:42:52.521 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:42:52.522 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:42:52.522 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:42:52.522 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:42:53.761 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-21 13:42:54.257 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:42:54.257 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:42:54.257 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:43:08.548 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:43:08.549 DEBUG: qml: 桌号选择为：
+2024-10-21 13:45:00.060 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:45:00.061 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:45:00.061 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:45:00.061 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:45:01.195 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-21 13:45:01.607 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:45:01.607 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:45:01.607 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:45:08.920 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:45:08.920 DEBUG: qml: 桌号选择为：
+2024-10-21 13:45:26.137 DEBUG: qml: 22.044800000000002 570
+2024-10-21 13:45:27.702 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:45:27.702 DEBUG: qml: 桌号选择为：
+2024-10-21 13:45:31.330 DEBUG: qml: 3.4848000000000003 570
+2024-10-21 13:45:32.910 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:45:32.911 DEBUG: qml: 桌号选择为：
+2024-10-21 13:52:29.023 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:52:29.023 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:52:29.023 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:52:29.023 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:52:30.154 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-21 13:52:30.566 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:52:30.566 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:52:30.566 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:52:37.544 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:52:37.545 DEBUG: qml: 桌号选择为：
+2024-10-21 13:53:07.218 DEBUG: qml: 选择了订单: 订单2
+2024-10-21 13:53:07.767 DEBUG: qml: 选择了订单: 订单1
+2024-10-21 13:56:26.863 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:56:26.863 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:56:26.864 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:56:26.864 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:56:28.498 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-21 13:56:28.945 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-21 13:56:28.945 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-21 13:56:28.945 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-21 13:56:32.158 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:56:32.159 DEBUG: qml: 桌号选择为：
+2024-10-21 13:56:34.274 DEBUG: qml: 用餐方式选择为：
+2024-10-21 13:56:34.274 DEBUG: qml: 桌号选择为：
+2024-10-21 13:56:36.739 WARNING: default: qrc:/qml/components/OrderCheckout.qml:374: ReferenceError: navigationView is not defined
+2024-10-21 13:56:37.936 WARNING: default: qrc:/qml/components/OrderCheckout.qml:374: ReferenceError: navigationView is not defined
+2024-10-21 13:56:38.619 WARNING: default: qrc:/qml/components/OrderCheckout.qml:374: ReferenceError: navigationView is not defined
+2024-10-21 13:56:41.433 WARNING: default: qrc:/qml/components/OrderCheckout.qml:374: ReferenceError: navigationView is not defined
+2024-10-21 13:56:42.898 WARNING: default: qrc:/qml/components/OrderCheckout.qml:374: ReferenceError: navigationView is not defined
+2024-10-21 13:56:44.417 WARNING: default: qrc:/qml/components/OrderCheckout.qml:374: ReferenceError: navigationView is not defined
+2024-10-28 12:16:58.745 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-28 12:16:58.746 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-28 12:16:58.746 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-28 12:16:58.746 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-28 12:17:03.760 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-28 12:17:04.392 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-28 12:17:04.392 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-28 12:17:04.392 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-28 12:17:20.812 DEBUG: qml: 用餐方式选择为：
+2024-10-28 12:17:20.827 DEBUG: qml: 桌号选择为：
+2024-10-28 12:17:23.410 WARNING: default: qrc:/qml/pages/Order.qml: Setting initial properties failed: Order does not have a property called _route
+2024-10-28 12:17:23.410 WARNING: default: qrc:/qml/pages/Order.qml: Setting initial properties failed: Order does not have a property called argument
+2024-10-28 12:17:23.417 DEBUG: qml: loaded Order page size: 0, 0
+2024-10-28 12:17:24.756 WARNING: default: qrc:/qml/pages/Order.qml: Setting initial properties failed: Order does not have a property called _route
+2024-10-28 12:17:24.756 WARNING: default: qrc:/qml/pages/Order.qml: Setting initial properties failed: Order does not have a property called argument
+2024-10-28 12:17:24.762 DEBUG: qml: loaded Order page size: 0, 0
+2024-10-28 12:18:23.067 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-28 12:18:23.068 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-28 12:18:23.068 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-28 12:18:23.068 DEBUG: default: Database connection test failed:  "Driver not loaded Driver not loaded"
+2024-10-28 12:18:24.972 DEBUG: qml: loaded Home page size: 1133, 650
+2024-10-28 12:18:25.514 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-28 12:18:25.514 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-28 12:18:25.514 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"
+2024-10-28 12:20:06.571 DEBUG: qml: 用餐方式选择为：
+2024-10-28 12:20:06.572 DEBUG: qml: 桌号选择为：
+2024-10-28 12:20:08.138 WARNING: default: qrc:/qml/pages/Order.qml: Setting initial properties failed: Order does not have a property called _route
+2024-10-28 12:20:08.138 WARNING: default: qrc:/qml/pages/Order.qml: Setting initial properties failed: Order does not have a property called argument
+2024-10-28 12:20:08.143 DEBUG: qml: loaded Order page size: 0, 0
+2024-10-28 12:20:11.693 DEBUG: qml: loaded Order page size: 1055, 671
+2024-10-28 12:20:12.993 DEBUG: qml: loaded Home page size: 1055, 671
+2024-10-28 12:20:13.091 WARNING: default: QSqlDatabase: QPSQL driver not loaded
+2024-10-28 12:20:13.091 WARNING: default: QSqlDatabase: available drivers: QSQLITE QMIMER QODBC QPSQL
+2024-10-28 12:20:13.091 DEBUG: default: Database connection failed:  "Driver not loaded Driver not loaded"

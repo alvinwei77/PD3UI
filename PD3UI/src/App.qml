@@ -11,6 +11,7 @@ FluLauncher {
         FluApp.windowIcon = "qrc:/public/pd3logo.png"
         FluRouter.routes = {
             "/":"qrc:/qml/main.qml",
+            "/order":"qrc:/qml/pages/Order.qml"
         }
         FluRouter.navigate("/")
     }

@@ -126,5 +126,10 @@ FluObject {
     function searchOrder_(data){
         searchOrder(data)
     }
+
+    signal updateOrderPage(int orderId)
+    function updateOrderPage_(orderId){
+        updateOrderPage(orderId)
+    }
 }
 

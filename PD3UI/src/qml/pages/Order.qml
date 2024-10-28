@@ -9,6 +9,7 @@ PD3_Page {
     id: root
     title: "Order"
     anchors.fill: parent
+    property int orderId_: 0
 
     ListModel {
         id: dishType_list
@@ -83,6 +84,9 @@ PD3_Page {
 
     Connections {
         target: SignalManager
+        function updateOrderPage(orderId){
+            root.orderId_ = orderId
+        }
 
     }
 

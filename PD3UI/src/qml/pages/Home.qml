@@ -93,9 +93,10 @@ PD3_Page {
             tableOpres.Layout.preferredWidth = tableOpres.Layout.preferredWidth === 0 ? 400 : 0
         }
         function onCheckoutp_show(id){
-            tableOpres.source = GlobalModel.order_checkout_source
-            tableOpres.tableId = id
-            tableOpres.Layout.preferredWidth = 800
+            if (tableOpres.Layout.preferredWidth === 0) {
+                tableOpres.source = GlobalModel.order_checkout_source
+            }
+            tableOpres.Layout.preferredWidth = tableOpres.Layout.preferredWidth === 0 ? 800 : 0
         }
     }
 }
